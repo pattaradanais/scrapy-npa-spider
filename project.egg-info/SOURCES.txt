@@ -1,0 +1,14 @@
+setup.py
+npa/__init__.py
+npa/items.py
+npa/middlewares.py
+npa/pipelines.py
+npa/settings.py
+npa/spiders/__init__.py
+npa/spiders/spider copy.py
+npa/spiders/spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
