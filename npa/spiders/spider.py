@@ -32,7 +32,8 @@ class SpiderSpider(scrapy.Spider):
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
         # self.driver = webdriver.Chrome(executable_path="../chromedriver", chrome_options=self.chrome_options)
-        self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
+        # self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
+        self.driver = webdriver.Chrome(chrome_options=self.chrome_options)
 
 
     def start_requests(self):
