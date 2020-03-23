@@ -31,6 +31,7 @@ class SpiderSpider(scrapy.Spider):
     def __init__(self):
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
+        self.chrome_options.add_argument("--no-sandbox")
         # self.driver = webdriver.Chrome(executable_path="../chromedriver", chrome_options=self.chrome_options)
         # self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
         self.driver = webdriver.Chrome(chrome_options=self.chrome_options, executable_path='/usr/bin/chromedriver') 
