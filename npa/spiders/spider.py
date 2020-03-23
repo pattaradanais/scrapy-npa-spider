@@ -33,8 +33,8 @@ class SpiderSpider(scrapy.Spider):
         self.chrome_options.add_argument("--headless")
         # self.driver = webdriver.Chrome(executable_path="../chromedriver", chrome_options=self.chrome_options)
         # self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
-        self.driver = webdriver.Chrome(chrome_options=options, executable_path='/usr/bin/chromedriver') 
-         
+        self.driver = webdriver.Chrome(chrome_options=self.chrome_options, executable_path='/usr/bin/chromedriver') 
+
 # demo.pyimport scrapyfrom selenium import webdriver
 # options = webdriver.ChromeOptions()        
 # options.add_argument("--disable-extensions")        
