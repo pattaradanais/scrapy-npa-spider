@@ -10,6 +10,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 class SpiderSpider(scrapy.Spider):
     name = 'spider'
@@ -26,12 +27,13 @@ class SpiderSpider(scrapy.Spider):
     #    url_list.append(elem['url']) 
 
     # start_urls = url_list #property list page url   
-   
 
     def __init__(self):
         self.chrome_options = Options()
         self.chrome_options.add_argument("--headless")
-        self.driver = webdriver.Chrome(executable_path="../../chromedriver")
+        # self.driver = webdriver.Chrome(executable_path="../chromedriver", chrome_options=self.chrome_options)
+        self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
+
 
     def start_requests(self):
         for source in self.taget_source:

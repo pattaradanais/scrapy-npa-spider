@@ -1,0 +1,6 @@
+dnspython
+pymongo
+scrapy
+selenium
+scrapy-user-agents
+webdriver_manager
