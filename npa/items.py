@@ -58,4 +58,5 @@ class NpaItem(scrapy.Item):
     more_detail = scrapy.Field(
         input_processor = MapCompose(remove_html, remove_space_tag)
     )
+    scraping_date = scrapy.Field()
     # pass

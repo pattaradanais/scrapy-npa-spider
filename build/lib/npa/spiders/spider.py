@@ -11,17 +11,24 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
+from datetime import datetime
 
 class SpiderSpider(scrapy.Spider):
     name = 'spider'
-    count_for = 0
-    count_detail = 0
-    source_tmb_count = 0 
-    source_ktb_count = 0
+    # count_for = 0
+    # count_detail = 0
+    # source_tmb_count = 0 
+    # source_ktb_count = 0
     client = pymongo.MongoClient("mongodb://npaDB:npaadmin@cluster0-shard-00-00-ipibu.gcp.mongodb.net:27017,cluster0-shard-00-01-ipibu.gcp.mongodb.net:27017,cluster0-shard-00-02-ipibu.gcp.mongodb.net:27017/npaWebAppDB?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
     db = client.get_default_database()
     collection = db['scrap_elem']
     taget_source = collection.find()
+    #remove all oud data
+    forRemove = db['raw_data']
+    try:
+        forRemove.remove({})
+    except:
+        print("No data in collection")
     # url_list = []
     # for elem in taget_source:
     #    url_list.append(elem['url']) 
@@ -34,15 +41,15 @@ class SpiderSpider(scrapy.Spider):
         self.chrome_options.add_argument("--no-sandbox")
         # self.driver = webdriver.Chrome(executable_path="../chromedriver", chrome_options=self.chrome_options)
         # self.driver = webdriver.Chrome(ChromeDriverManager().install(), chrome_options=self.chrome_options)
-        self.driver = webdriver.Chrome(chrome_options=self.chrome_options, executable_path='/usr/bin/chromedriver')     
+        self.driver = webdriver.Chrome(chrome_options=self.chrome_options, executable_path='/usr/bin/chromedriver') 
 
 # demo.pyimport scrapyfrom selenium import webdriver
 # options = webdriver.ChromeOptions()        
 # options.add_argument("--disable-extensions")        
 # options.add_argument("--headless")        
 # options.add_argument("--disable-gpu")       
-#  options.add_argument("--no-sandbox")        
-# self.driver = webdriver.Chrome(chrome_options=options, executable_path='/usr/bin/chromedriver')        
+# options.add_argument("--no-sandbox")        
+# self.driver = webdriver.Chrome(chrome_options=options, executable_path='/usr/bin/chromedriver')       
 
 
     def start_requests(self):
@@ -59,13 +66,13 @@ class SpiderSpider(scrapy.Spider):
                 sel = scrapy.Selector(text=source)
                 urls =  sel.xpath(source_dict['item_page']).extract()
                 for url in urls: 
-                    if source_dict['source'] == 'TMB':
-                        self.source_tmb_count += 1 
-                    elif source_dict['source'] == 'KTB':
-                        self.source_ktb_count += 1
+                    # if source_dict['source'] == 'TMB':
+                    #     self.source_tmb_count += 1 
+                    # elif source_dict['source'] == 'KTB':
+                    #     self.source_ktb_count += 1
 
-                    self.count_for +=1
-                    print("for count = "+str(self.count_for))
+                    # self.count_for +=1
+                    # print("for count = "+str(self.count_for))
                     if source_dict['base_url'] in url:
                         url = url
                     else:
@@ -88,14 +95,15 @@ class SpiderSpider(scrapy.Spider):
     #parse detail page
     def parse_details(self, response):
 
-        self.count_detail +=1
-        print("detail parse count = " + str(self.count_detail))
+        # self.count_detail +=1
+        # print("detail parse count = " + str(self.count_detail))
     
         items = NpaItem()
 
         source_url = response.meta['source_url']
         source_dict = self.collection.find_one({'url' : source_url})
 
+        
 
         _id =  source_dict['source'] + response.xpath(source_dict['asset_code']).extract_first()
         source = source_dict['source']
@@ -110,6 +118,7 @@ class SpiderSpider(scrapy.Spider):
         address = response.xpath(source_dict['address']).extract()
         contact = response.xpath(source_dict['contact']).extract()
         more_detail = response.xpath(source_dict['more_detail']).extract()
+        scraping_date = self.now_string()
 
         items['_id'] =  _id
         items['source'] = source
@@ -124,9 +133,10 @@ class SpiderSpider(scrapy.Spider):
         items['address'] = address
         items['contact'] = contact
         items['more_detail'] = more_detail
+        items['scraping_date'] = scraping_date
 
-        print("TMB" + str(self.source_tmb_count))
-        print("KTB" + str(self.source_ktb_count))
+        # print("TMB" + str(self.source_tmb_count))
+        # print("KTB" + str(self.source_ktb_count))
 
         yield items
 
@@ -153,3 +163,8 @@ class SpiderSpider(scrapy.Spider):
                         absolute__img_url =  f"{base_url}/{img_url}"
                 absolute_url.append(absolute__img_url)
         return absolute_url
+
+    def now_string(self):
+        now = datetime.now()
+        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+        return dt_string
