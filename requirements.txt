@@ -1,5 +1,6 @@
 dnspython
 pymongo
+pytz
 scrapy
 selenium
 scrapy-user-agents
