@@ -12,6 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
+import pytz
 
 class SpiderSpider(scrapy.Spider):
     name = 'spider'
@@ -166,5 +167,8 @@ class SpiderSpider(scrapy.Spider):
 
     def now_string(self):
         now = datetime.now()
-        dt_string = now.strftime("%d/%m/%Y %H:%M:%S")
+        bkk_tz = pytz.timezone('Asia/Bangkok')
+        fmt = '%Y-%m-%d %H:%M:%S %Z%z'
+        bkk_dt = now.astimezone(bkk_tz)
+        dt_string = bkk_dt.strftime(fmt)
         return dt_string
