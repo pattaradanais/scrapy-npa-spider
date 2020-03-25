@@ -15,14 +15,14 @@ def remove_html(text_data):
         cleaned_data = remove_tags(text_data)
     except TypeError:
         cleaned_data = 'No data'
-    return cleaned_data
+    return cleaned_data.strip()
 
 def remove_space_tag(text_data):
     if "\n" in text_data:
         text_data.replace('\n','')
     if "&nbsp" in text_data:
         text_data.replace('&nbsp','')
-    return text_data
+    return text_data.strip()
 
 
 class NpaItem(scrapy.Item):
