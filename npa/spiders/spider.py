@@ -217,7 +217,4 @@ class SpiderSpider(scrapy.Spider):
         return text_data.strip()
 
 
-if __name__ == '__main__':
-    process = CrawlerProcess()
-    process.crawl(SpiderSpider)
-    process.start() # the script will block here until all crawling jobs are finished
+
