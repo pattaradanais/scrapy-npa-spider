@@ -13,6 +13,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
 import pytz
+from w3lib.html import remove_tags
+from ..function.address_check import address_check
+from ..function.get_time import now_string
+from ..function.str_concat import str_concat, str_concat_nospace, str_concat_comma
+from ..function.area_split import area_split
+
 
 class SpiderSpider(scrapy.Spider):
     name = 'spider'
@@ -174,3 +180,19 @@ class SpiderSpider(scrapy.Spider):
         bkk_dt = now.astimezone(bkk_tz)
         dt_string = bkk_dt.strftime(fmt)
         return dt_string
+
+
+    def remove_html(self,text_data):
+        cleaned_data = ''
+        try:
+            cleaned_data = remove_tags(text_data)
+        except TypeError:
+            cleaned_data = 'No data'
+        return cleaned_data.strip()
+
+    def remove_space_tag(self,text_data):
+        if "\n" in text_data:
+            text_data.replace('\n','')
+        if "&nbsp" in text_data:
+            text_data.replace('&nbsp','')
+        return text_data.strip()
