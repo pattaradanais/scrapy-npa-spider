@@ -1,8 +1,10 @@
 import json
+import pkgutil
 
+data = pkgutil.get_data("project", "assets/thailand.json")
 
-with open('./assets/thailand.json',encoding='utf8') as json_file:
-    data = json.load(json_file)
+# with open('./assets/thailand.json',encoding='utf8') as json_file:
+#     data = json.load(json_file)
 
 
 def address_check(address):
