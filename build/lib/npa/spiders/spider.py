@@ -19,6 +19,8 @@ from ..function.get_time import now_string
 from ..function.str_concat import str_concat, str_concat_nospace, str_concat_comma
 from ..function.area_split import area_split
 
+from scrapy.crawler import CrawlerProcess
+
 
 
 class SpiderSpider(scrapy.Spider):
@@ -212,3 +214,9 @@ class SpiderSpider(scrapy.Spider):
         if "&nbsp" in text_data:
             text_data.replace('&nbsp','')
         return text_data.strip()
+
+
+if __name__ == '__main__':
+    process = CrawlerProcess()
+    process.crawl(SpiderSpider)
+    process.start() # the script will block here until all crawling jobs are finished
