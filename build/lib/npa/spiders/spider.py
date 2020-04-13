@@ -131,18 +131,31 @@ class SpiderSpider(scrapy.Spider):
 
         items['_id'] =  _id
         items['source'] = source
-        items['url'] = url
-        items['img'] = self.image_link_check(img,source_dict['base_url'])
-        items['gg_map'] = gg_map
-        items['price'] = price
-        items['asset_type'] = asset_type
-        items['asset_code'] = asset_code
-        items['area'] = area
-        items['deed_num'] = deed_num
-        items['address'] = address
-        items['contact'] = contact
-        items['more_detail'] = more_detail
-        items['scraping_date'] = scraping_date
+        items['asset_url'] = url
+        items['asset_img'] = self.image_link_check(img,source_dict['base_url'])
+        try:
+            items['gg_map'] = gg_map[0]
+        except:
+            items['gg_map'] = "Google map not found"
+        items['price'] = str_concat_nospace(price).strip()
+        items['asset_type'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_type)))
+        items['asset_code'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_code)))
+        items['area'] = self.remove_space_tag(self.remove_html(str_concat_nospace(area))) 
+        area_dict = area_split(self.remove_space_tag(self.remove_html(str_concat_nospace(area))))
+        items['area_rai'] = float(area_dict['rai'])
+        items['area_ngan'] = float(area_dict['ngan'])
+        items['area_sq_wa'] = float(area_dict['sq_wa'])
+        items['deed_num'] = self.remove_space_tag(self.remove_html(str_concat(deed_num)))
+        items['address'] = self.remove_space_tag(self.remove_html(str_concat(address))).strip()
+        address_dict = address_check(items['address'])
+        items['province'] = address_dict['province']
+        items['district'] = address_dict['district']
+        items['sub_district'] = address_dict['sub_district']
+
+        items['contact'] =  self.remove_space_tag(self.remove_html(str_concat_comma(contact))) 
+        items['more_detail'] = self.remove_space_tag(self.remove_html(str_concat(more_detail)))
+        items['update_date'] = scraping_date
+        items['status'] = 0
 
         # print("TMB" + str(self.source_tmb_count))
         # print("KTB" + str(self.source_ktb_count))
