@@ -17,5 +17,5 @@ class NpaPipeline(object):
         # pass
 
     def process_item(self, item, spider):
-        self.collection.insert(dict(item))
+        self.collection.update({'_id':item['_id']},dict(item),upsert=True)
         return item
