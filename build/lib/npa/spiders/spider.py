@@ -2,7 +2,6 @@ import scrapy
 import uuid
 import pymongo
 import json
-import pytz
 from time import sleep
 from urllib.parse import urlparse, parse_qs, urlencode
 from ..items import NpaItem
@@ -13,15 +12,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from webdriver_manager.chrome import ChromeDriverManager
 from datetime import datetime
-from w3lib.html import remove_tags
-from ..function.address_check import address_check
-from ..function.get_time import now_string
-from ..function.str_concat import str_concat, str_concat_nospace, str_concat_comma
-from ..function.area_split import area_split
-
-from scrapy.crawler import CrawlerProcess
-
-
+import pytz
 
 class SpiderSpider(scrapy.Spider):
     name = 'spider'
@@ -34,15 +25,11 @@ class SpiderSpider(scrapy.Spider):
     collection = db['scrap_elem']
     taget_source = collection.find()
     #remove all oud data
-    forRemove = db['properties']
-    
-    for item in forRemove.find({}):
-        forRemove.update({'_id':item['_id']},{'$set':{'status':1}})
-        
-    # try:
-    #     forRemove.remove({})
-    # except:
-    #     print("No data in collection")
+    forRemove = db['raw_data']
+    try:
+        forRemove.remove({})
+    except:
+        print("No data in collection")
     # url_list = []
     # for elem in taget_source:
     #    url_list.append(elem['url']) 
@@ -136,32 +123,18 @@ class SpiderSpider(scrapy.Spider):
 
         items['_id'] =  _id
         items['source'] = source
-        items['asset_url'] = url
-        items['asset_img'] = self.image_link_check(img,source_dict['base_url'])
-        try:
-            items['gg_map'] = gg_map[0]
-        except:
-            items['gg_map'] = "Google map not found"
-        items['price'] = str_concat_nospace(price).strip()
-        items['asset_type'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_type)))
-        items['asset_code'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_code)))
-        items['area'] = self.remove_space_tag(self.remove_html(str_concat_nospace(area))) 
-        area_dict = area_split(self.remove_space_tag(self.remove_html(str_concat_nospace(area))))
-        items['area_rai'] = float(area_dict['rai'])
-        items['area_ngan'] = float(area_dict['ngan'])
-        items['area_sq_wa'] = float(area_dict['sq_wa'])
-        items['deed_num'] = self.remove_space_tag(self.remove_html(str_concat(deed_num)))
-        items['address'] = self.remove_space_tag(self.remove_html(str_concat(address))).strip()
-        address_dict = address_check(items['address'])
-        items['province'] = address_dict['province']
-        items['district'] = address_dict['district']
-        items['sub_district'] = address_dict['sub_district']
-
-        items['contact'] =  self.remove_space_tag(self.remove_html(str_concat_comma(contact))) 
-        items['more_detail'] = self.remove_space_tag(self.remove_html(str_concat(more_detail)))
-        items['update_date'] = scraping_date
-        items['status'] = 0
-         #0=new, 1=old, 2=deleted 
+        items['url'] = url
+        items['img'] = self.image_link_check(img,source_dict['base_url'])
+        items['gg_map'] = gg_map
+        items['price'] = price
+        items['asset_type'] = asset_type
+        items['asset_code'] = asset_code
+        items['area'] = area
+        items['deed_num'] = deed_num
+        items['address'] = address
+        items['contact'] = contact
+        items['more_detail'] = more_detail
+        items['scraping_date'] = scraping_date
 
         # print("TMB" + str(self.source_tmb_count))
         # print("KTB" + str(self.source_ktb_count))
@@ -199,24 +172,3 @@ class SpiderSpider(scrapy.Spider):
         bkk_dt = now.astimezone(bkk_tz)
         dt_string = bkk_dt.strftime(fmt)
         return dt_string
-
-    def remove_html(self,text_data):
-        cleaned_data = ''
-        try:
-            cleaned_data = remove_tags(text_data)
-        except TypeError:
-            cleaned_data = 'No data'
-        return cleaned_data.strip()
-
-    def remove_space_tag(self,text_data):
-        if "\n" in text_data:
-            text_data.replace('\n','')
-        if "&nbsp" in text_data:
-            text_data.replace('&nbsp','')
-        return text_data.strip()
-
-
-if __name__ == '__main__':
-    process = CrawlerProcess()
-    process.crawl(SpiderSpider)
-    process.start() # the script will block here until all crawling jobs are finished
