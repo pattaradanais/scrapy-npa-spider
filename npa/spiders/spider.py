@@ -20,8 +20,6 @@ from ..function.str_concat import str_concat, str_concat_nospace, str_concat_com
 from ..function.area_split import area_split
 
 
-from scrapy.crawler import CrawlerProcess
-
 
 
 class SpiderSpider(scrapy.Spider):

@@ -26,10 +26,12 @@ class SpiderSpider(scrapy.Spider):
     taget_source = collection.find()
     #remove all oud data
     forRemove = db['raw_data']
-    try:
-        forRemove.remove({})
-    except:
-        print("No data in collection")
+    for item in forRemove.find({}):
+        forRemove.update({'_id':item['_id']},{'$set':{'status':1}})
+    # try:
+    #     forRemove.remove({})
+    # except:
+    #     print("No data in collection")
     # url_list = []
     # for elem in taget_source:
     #    url_list.append(elem['url']) 
