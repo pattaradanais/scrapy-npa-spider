@@ -31,7 +31,7 @@ class SpiderSpider(scrapy.Spider):
     client = pymongo.MongoClient("mongodb://npaDB:npaadmin@cluster0-shard-00-00-ipibu.gcp.mongodb.net:27017,cluster0-shard-00-01-ipibu.gcp.mongodb.net:27017,cluster0-shard-00-02-ipibu.gcp.mongodb.net:27017/npaWebAppDB?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority")
     db = client.get_default_database()
     collection = db['scrap_elem']
-    taget_source = collection.find()
+    taget_source = collection.find({'scrape':1})
     #remove all oud data
     forRemove = db['properties']
     
@@ -99,6 +99,9 @@ class SpiderSpider(scrapy.Spider):
                     WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, source_dict['next_page'])))
                 except:
                     break
+            #after all spider of this source
+            self.collection.update({'_id':source['_id']},{'$set':{'scrape':0}})
+       
        
 
        

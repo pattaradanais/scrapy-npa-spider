@@ -4,14 +4,14 @@ import requests
 # with open('./assets/thailand.json',encoding='utf8') as json_file:
 #     data = json.load(json_file)
 
-r_temp1 = requests.get('https://npa-project.herokuapp.com/api/addressraw')
+# r_temp1 = requests.get('https://npa-project.herokuapp.com/api/addressraw')
 
 r_temp2 = requests.get('http://127.0.0.1:5000/api/addressraw')
 
-if r_temp1.status_code == 200:
-    data = json.loads(r_temp1.text)
-elif r_temp2.status_code == 200:
-    data = json.loads(r_temp2.text)
+# if r_temp1.status_code == 200:
+#     data = json.loads(r_temp1.text)
+# elif r_temp2.status_code == 200:
+data = json.loads(r_temp2.text)
 
 def address_check(address):
     p_value = ""
