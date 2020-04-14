@@ -65,9 +65,10 @@ class SpiderSpider(scrapy.Spider):
 
 
     def start_requests(self):
-        for item in self.forRemove.find({}):
-            self.forRemove.update({'_id':item['_id']},{'$set':{'status':2}})
+        
         for source in self.taget_source:
+            for item in self.forRemove.find({}):
+                self.forRemove.update({'_id':item['_id'],'source':source['source']},{'$set':{'status':2}})
             print(source['source']+'----------------------------------------------------------------------------------------------')
             source_url = source['url']   
 
@@ -91,7 +92,13 @@ class SpiderSpider(scrapy.Spider):
                         url = url
                     else:
                         url = f"{source_dict['base_url']}/{url}"
-                    yield scrapy.Request(url=url, callback=self.parse_details,meta={'source_url': source_url})
+
+                    _id = source_dict['source'] + url.split('/')[-1]
+                    if self.forRemove.find_one({'_id':_id}):
+                        print("Property already scrape!!!!")
+                        self.forRemove.update({'_id':_id},{'$set':{'status':1}})
+                    else:
+                        yield scrapy.Request(url=url, callback=self.parse_details,meta={'source_url': source_url})
 
                 # follow pagination link
                 try:
@@ -101,7 +108,9 @@ class SpiderSpider(scrapy.Spider):
                 except:
                     break
             #after all spider of this source
-            self.collection.update({'source':source['source']},{'$set':{'scrape':0}})
+            # print(source_dict['source'])
+            self.collection.update({'source':source_dict['source']},{'$set':{'scrape':0}})
+           
        
        
 
@@ -123,57 +132,58 @@ class SpiderSpider(scrapy.Spider):
       
 
         _id =  source_dict['source'] + response.xpath(source_dict['asset_code']).extract_first()
+       
+        # if self.forRemove.find_one({'_id':_id}):
+        #     print("Property already scrape!!!!")
+        #     self.forRemove.update({'_id':_id},{'$set':{'status':1}})
+        # else:
+        source = source_dict['source']
+        url = response.url
+        img = response.xpath(source_dict['img']).extract()
+        gg_map = response.xpath(source_dict['gg_map']).extract()
+        price = response.xpath(source_dict['price']).extract()
+        asset_type = response.xpath(source_dict['asset_type']).extract()
+        asset_code = response.xpath(source_dict['asset_code']).extract()
+        area = response.xpath(source_dict['area']).extract()
+        deed_num = response.xpath(source_dict['deed_num']).extract()
+        address = response.xpath(source_dict['address']).extract()
+        contact = response.xpath(source_dict['contact']).extract()
+        more_detail = response.xpath(source_dict['more_detail']).extract()
+        scraping_date = self.now_string()
 
-        if self.collection.find_one({'_id':_id}):
-            self.collection.update({'_id':_id},{'$set':{'scrape':1}})
-        else:
-            source = source_dict['source']
-            url = response.url
-            img = response.xpath(source_dict['img']).extract()
-            gg_map = response.xpath(source_dict['gg_map']).extract()
-            price = response.xpath(source_dict['price']).extract()
-            asset_type = response.xpath(source_dict['asset_type']).extract()
-            asset_code = response.xpath(source_dict['asset_code']).extract()
-            area = response.xpath(source_dict['area']).extract()
-            deed_num = response.xpath(source_dict['deed_num']).extract()
-            address = response.xpath(source_dict['address']).extract()
-            contact = response.xpath(source_dict['contact']).extract()
-            more_detail = response.xpath(source_dict['more_detail']).extract()
-            scraping_date = self.now_string()
+        items['_id'] =  _id
+        items['source'] = source
+        items['asset_url'] = url
+        items['asset_img'] = self.image_link_check(img,source_dict['base_url'])
+        try:
+            items['gg_map'] = gg_map[0]
+        except:
+            items['gg_map'] = "Google map not found"
+        items['price'] = str_concat_nospace(price).strip()
+        items['asset_type'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_type)))
+        items['asset_code'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_code)))
+        items['area'] = self.remove_space_tag(self.remove_html(str_concat_nospace(area))) 
+        area_dict = area_split(self.remove_space_tag(self.remove_html(str_concat_nospace(area))))
+        items['area_rai'] = float(area_dict['rai'])
+        items['area_ngan'] = float(area_dict['ngan'])
+        items['area_sq_wa'] = float(area_dict['sq_wa'])
+        items['deed_num'] = self.remove_space_tag(self.remove_html(str_concat(deed_num)))
+        items['address'] = self.remove_space_tag(self.remove_html(str_concat(address))).strip()
+        address_dict = address_check(items['address'])
+        items['province'] = address_dict['province']
+        items['district'] = address_dict['district']
+        items['sub_district'] = address_dict['sub_district']
 
-            items['_id'] =  _id
-            items['source'] = source
-            items['asset_url'] = url
-            items['asset_img'] = self.image_link_check(img,source_dict['base_url'])
-            try:
-                items['gg_map'] = gg_map[0]
-            except:
-                items['gg_map'] = "Google map not found"
-            items['price'] = str_concat_nospace(price).strip()
-            items['asset_type'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_type)))
-            items['asset_code'] = self.remove_space_tag(self.remove_html(str_concat_nospace(asset_code)))
-            items['area'] = self.remove_space_tag(self.remove_html(str_concat_nospace(area))) 
-            area_dict = area_split(self.remove_space_tag(self.remove_html(str_concat_nospace(area))))
-            items['area_rai'] = float(area_dict['rai'])
-            items['area_ngan'] = float(area_dict['ngan'])
-            items['area_sq_wa'] = float(area_dict['sq_wa'])
-            items['deed_num'] = self.remove_space_tag(self.remove_html(str_concat(deed_num)))
-            items['address'] = self.remove_space_tag(self.remove_html(str_concat(address))).strip()
-            address_dict = address_check(items['address'])
-            items['province'] = address_dict['province']
-            items['district'] = address_dict['district']
-            items['sub_district'] = address_dict['sub_district']
+        items['contact'] =  self.remove_space_tag(self.remove_html(str_concat_comma(contact))) 
+        items['more_detail'] = self.remove_space_tag(self.remove_html(str_concat(more_detail)))
+        items['update_date'] = scraping_date
+        items['status'] = 0
+        #0=new, 1=old, 2=deleted 
 
-            items['contact'] =  self.remove_space_tag(self.remove_html(str_concat_comma(contact))) 
-            items['more_detail'] = self.remove_space_tag(self.remove_html(str_concat(more_detail)))
-            items['update_date'] = scraping_date
-            items['status'] = 0
-         #0=new, 1=old, 2=deleted 
+    # print("TMB" + str(self.source_tmb_count))
+    # print("KTB" + str(self.source_ktb_count))
 
-        # print("TMB" + str(self.source_tmb_count))
-        # print("KTB" + str(self.source_ktb_count))
-
-            yield items
+        yield items
 
     #when @scr is not absolute url link "../gallery/test.jpg"
     def image_link_check(self,img_array,base_url):
