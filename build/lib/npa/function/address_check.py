@@ -205,7 +205,7 @@ data = {
           "100206": {
             "name": {
               "th": "ถนนนครไชยศรี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.789",
@@ -224,7 +224,7 @@ data = {
           "100301": {
             "name": {
               "th": "กระทุ่มราย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.823",
@@ -235,7 +235,7 @@ data = {
           "100302": {
             "name": {
               "th": "หนองจอก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.869",
@@ -246,7 +246,7 @@ data = {
           "100303": {
             "name": {
               "th": "คลองสิบ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.914",
@@ -257,7 +257,7 @@ data = {
           "100304": {
             "name": {
               "th": "คลองสิบสอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.914",
@@ -268,7 +268,7 @@ data = {
           "100305": {
             "name": {
               "th": "โคกแฝด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.840",
@@ -279,7 +279,7 @@ data = {
           "100306": {
             "name": {
               "th": "คู้ฝั่งเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.872",
@@ -290,7 +290,7 @@ data = {
           "100307": {
             "name": {
               "th": "ลำผักชี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.797",
@@ -301,7 +301,7 @@ data = {
           "100308": {
             "name": {
               "th": "ลำต้อยติ่ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.781",
@@ -320,7 +320,7 @@ data = {
           "100401": {
             "name": {
               "th": "มหาพฤฒาราม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.734",
@@ -331,7 +331,7 @@ data = {
           "100402": {
             "name": {
               "th": "สีลม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.730",
@@ -342,7 +342,7 @@ data = {
           "100403": {
             "name": {
               "th": "สุริยวงศ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.724",
@@ -353,7 +353,7 @@ data = {
           "100404": {
             "name": {
               "th": "บางรัก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.727",
@@ -364,7 +364,7 @@ data = {
           "100405": {
             "name": {
               "th": "สี่พระยา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.725",
@@ -383,7 +383,7 @@ data = {
           "100502": {
             "name": {
               "th": "อนุสาวรีย์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.868",
@@ -394,7 +394,7 @@ data = {
           "100508": {
             "name": {
               "th": "ท่าแร้ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.866",
@@ -413,7 +413,7 @@ data = {
           "100601": {
             "name": {
               "th": "คลองจั่น",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.786",
@@ -424,7 +424,7 @@ data = {
           "100608": {
             "name": {
               "th": "หัวหมาก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.756",
@@ -465,7 +465,7 @@ data = {
           "100703": {
             "name": {
               "th": "ปทุมวัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.740",
@@ -476,7 +476,7 @@ data = {
           "100704": {
             "name": {
               "th": "ลุมพินี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.736",
@@ -495,7 +495,7 @@ data = {
           "100801": {
             "name": {
               "th": "ป้อมปราบ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.743",
@@ -506,7 +506,7 @@ data = {
           "100802": {
             "name": {
               "th": "วัดเทพศิรินทร์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.749",
@@ -517,7 +517,7 @@ data = {
           "100803": {
             "name": {
               "th": "คลองมหานาค",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.753",
@@ -528,7 +528,7 @@ data = {
           "100804": {
             "name": {
               "th": "บ้านบาตร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
@@ -539,7 +539,7 @@ data = {
           "100805": {
             "name": {
               "th": "วัดโสมนัส",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.759",
@@ -558,7 +558,7 @@ data = {
           "100905": {
             "name": {
               "th": "บางจาก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.692",
@@ -577,7 +577,7 @@ data = {
           "101001": {
             "name": {
               "th": "มีนบุรี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.804",
@@ -588,7 +588,7 @@ data = {
           "101002": {
             "name": {
               "th": "แสนแสบ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.812",
@@ -607,7 +607,7 @@ data = {
           "101101": {
             "name": {
               "th": "ลาดกระบัง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.723",
@@ -618,7 +618,7 @@ data = {
           "101102": {
             "name": {
               "th": "คลองสองต้นนุ่น",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.753",
@@ -629,7 +629,7 @@ data = {
           "101103": {
             "name": {
               "th": "คลองสามประเวศ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.753",
@@ -640,7 +640,7 @@ data = {
           "101104": {
             "name": {
               "th": "ลำปลาทิว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.765",
@@ -651,7 +651,7 @@ data = {
           "101105": {
             "name": {
               "th": "ทับยาว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.728",
@@ -662,7 +662,7 @@ data = {
           "101106": {
             "name": {
               "th": "ขุมทอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.736",
@@ -681,7 +681,7 @@ data = {
           "101203": {
             "name": {
               "th": "ช่องนนทรี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.682",
@@ -692,7 +692,7 @@ data = {
           "101204": {
             "name": {
               "th": "บางโพงพาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.697",
@@ -711,18 +711,18 @@ data = {
           "101301": {
             "name": {
               "th": "จักรวรรดิ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.741",
               "lng": "100.504"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "101302": {
             "name": {
               "th": "สัมพันธวงศ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.739",
@@ -733,7 +733,7 @@ data = {
           "101303": {
             "name": {
               "th": "ตลาดน้อย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.734",
@@ -752,13 +752,13 @@ data = {
           "101401": {
             "name": {
               "th": "สามเสนใน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.782",
               "lng": "100.545"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -771,7 +771,7 @@ data = {
           "101501": {
             "name": {
               "th": "วัดกัลยาณ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.737",
@@ -782,7 +782,7 @@ data = {
           "101502": {
             "name": {
               "th": "หิรัญรูจี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.731",
@@ -804,7 +804,7 @@ data = {
           "101504": {
             "name": {
               "th": "บุคคโล",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.707",
@@ -815,7 +815,7 @@ data = {
           "101505": {
             "name": {
               "th": "ตลาดพลู",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.715",
@@ -834,7 +834,7 @@ data = {
           "101601": {
             "name": {
               "th": "วัดอรุณ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.743",
@@ -845,7 +845,7 @@ data = {
           "101602": {
             "name": {
               "th": "วัดท่าพระ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.733",
@@ -864,7 +864,7 @@ data = {
           "101701": {
             "name": {
               "th": "ห้วยขวาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.769",
@@ -875,7 +875,7 @@ data = {
           "101702": {
             "name": {
               "th": "บางกะปิ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
@@ -886,7 +886,7 @@ data = {
           "101704": {
             "name": {
               "th": "สามเสนนอก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.796",
@@ -905,7 +905,7 @@ data = {
           "101801": {
             "name": {
               "th": "สมเด็จเจ้าพระยา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.731",
@@ -916,18 +916,18 @@ data = {
           "101802": {
             "name": {
               "th": "คลองสาน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.735",
               "lng": "100.504"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "101803": {
             "name": {
               "th": "บางลำภูล่าง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.715",
@@ -938,7 +938,7 @@ data = {
           "101804": {
             "name": {
               "th": "คลองต้นไทร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.725",
@@ -957,7 +957,7 @@ data = {
           "101901": {
             "name": {
               "th": "คลองชักพระ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.760",
@@ -968,7 +968,7 @@ data = {
           "101902": {
             "name": {
               "th": "ตลิ่งชัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.789",
@@ -979,7 +979,7 @@ data = {
           "101903": {
             "name": {
               "th": "ฉิมพลี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.786",
@@ -990,7 +990,7 @@ data = {
           "101904": {
             "name": {
               "th": "บางพรม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
@@ -1001,7 +1001,7 @@ data = {
           "101905": {
             "name": {
               "th": "บางระมาด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.767",
@@ -1012,7 +1012,7 @@ data = {
           "101907": {
             "name": {
               "th": "บางเชือกหนัง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.751",
@@ -1042,7 +1042,7 @@ data = {
           "102005": {
             "name": {
               "th": "บ้านช่างหล่อ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
@@ -1053,7 +1053,7 @@ data = {
           "102006": {
             "name": {
               "th": "บางขุนนนท์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.774",
@@ -1064,7 +1064,7 @@ data = {
           "102007": {
             "name": {
               "th": "บางขุนศรี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.760",
@@ -1075,13 +1075,13 @@ data = {
           "102009": {
             "name": {
               "th": "อรุณอมรินทร์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.772",
               "lng": "100.477"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1094,7 +1094,7 @@ data = {
           "102105": {
             "name": {
               "th": "ท่าข้าม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.555",
@@ -1105,7 +1105,7 @@ data = {
           "102107": {
             "name": {
               "th": "แสมดำ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.605",
@@ -1124,7 +1124,7 @@ data = {
           "102201": {
             "name": {
               "th": "บางหว้า",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.714",
@@ -1135,7 +1135,7 @@ data = {
           "102202": {
             "name": {
               "th": "บางด้วน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.723",
@@ -1146,18 +1146,18 @@ data = {
           "102206": {
             "name": {
               "th": "บางจาก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.727",
               "lng": "100.450"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102207": {
             "name": {
               "th": "บางแวก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.736",
@@ -1168,7 +1168,7 @@ data = {
           "102208": {
             "name": {
               "th": "คลองขวาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.738",
@@ -1179,7 +1179,7 @@ data = {
           "102209": {
             "name": {
               "th": "ปากคลองภาษีเจริญ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.722",
@@ -1190,7 +1190,7 @@ data = {
           "102210": {
             "name": {
               "th": "คูหาสวรรค์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.727",
@@ -1209,7 +1209,7 @@ data = {
           "102302": {
             "name": {
               "th": "หนองแขม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.680",
@@ -1220,7 +1220,7 @@ data = {
           "102303": {
             "name": {
               "th": "หนองค้างพลู",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.714",
@@ -1239,7 +1239,7 @@ data = {
           "102401": {
             "name": {
               "th": "ราษฎร์บูรณะ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.670",
@@ -1250,7 +1250,7 @@ data = {
           "102402": {
             "name": {
               "th": "บางปะกอก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.675",
@@ -1269,46 +1269,46 @@ data = {
           "102501": {
             "name": {
               "th": "บางพลัด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.791",
               "lng": "100.487"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102502": {
             "name": {
               "th": "บางอ้อ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.802",
               "lng": "100.512"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102503": {
             "name": {
               "th": "บางบำหรุ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.781",
               "lng": "100.482"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102504": {
             "name": {
               "th": "บางยี่ขัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.774",
               "lng": "100.492"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1321,13 +1321,13 @@ data = {
           "102601": {
             "name": {
               "th": "ดินแดง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.778",
               "lng": "100.567"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1340,13 +1340,13 @@ data = {
           "102701": {
             "name": {
               "th": "คลองกุ่ม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.808",
               "lng": "100.650"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1359,35 +1359,35 @@ data = {
           "102801": {
             "name": {
               "th": "ทุ่งวัดดอน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.710",
               "lng": "100.532"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102802": {
             "name": {
               "th": "ยานนาวา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.714",
               "lng": "100.514"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "102803": {
             "name": {
               "th": "ทุ่งมหาเมฆ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.718",
               "lng": "100.541"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1400,13 +1400,13 @@ data = {
           "102901": {
             "name": {
               "th": "บางซื่อ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.820",
               "lng": "100.529"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1419,13 +1419,13 @@ data = {
           "103001": {
             "name": {
               "th": "ลาดยาว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.826",
               "lng": "100.565"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1438,35 +1438,35 @@ data = {
           "103101": {
             "name": {
               "th": "บางคอแหลม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.696",
               "lng": "100.494"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103102": {
             "name": {
               "th": "วัดพระยาไกร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.706",
               "lng": "100.508"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103103": {
             "name": {
               "th": "บางโคล่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.694",
               "lng": "100.516"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1479,35 +1479,35 @@ data = {
           "103201": {
             "name": {
               "th": "ประเวศ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.719",
               "lng": "100.664"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103202": {
             "name": {
               "th": "หนองบอน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.687",
               "lng": "100.656"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103203": {
             "name": {
               "th": "ดอกไม้",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.680",
               "lng": "100.689"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1520,35 +1520,35 @@ data = {
           "103301": {
             "name": {
               "th": "คลองเตย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.710",
               "lng": "100.570"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103302": {
             "name": {
               "th": "คลองตัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.723",
               "lng": "100.571"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103303": {
             "name": {
               "th": "พระโขนง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.707",
               "lng": "100.595"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1561,13 +1561,13 @@ data = {
           "103401": {
             "name": {
               "th": "สวนหลวง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.726",
               "lng": "100.628"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1580,46 +1580,46 @@ data = {
           "103501": {
             "name": {
               "th": "บางขุนเทียน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.694",
               "lng": "100.450"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103502": {
             "name": {
               "th": "บางค้อ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.702",
               "lng": "100.476"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103503": {
             "name": {
               "th": "บางมด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.672",
               "lng": "100.468"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103504": {
             "name": {
               "th": "จอมทอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.693",
               "lng": "100.468"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1632,13 +1632,13 @@ data = {
           "103602": {
             "name": {
               "th": "สีกัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.925",
               "lng": "100.593"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1651,13 +1651,13 @@ data = {
           "103701": {
             "name": {
               "th": "ทุ่งพญาไท",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.763",
               "lng": "100.530"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103702": {
             "name": {
@@ -1668,29 +1668,29 @@ data = {
               "lat": "13.757",
               "lng": "100.538"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103703": {
             "name": {
               "th": "ถนนเพชรบุรี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
               "lng": "100.559"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103704": {
             "name": {
               "th": "มักกะสัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.752",
               "lng": "100.528"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1703,24 +1703,24 @@ data = {
           "103801": {
             "name": {
               "th": "ลาดพร้าว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.811",
               "lng": "100.612"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103802": {
             "name": {
               "th": "จรเข้บัว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.840",
               "lng": "100.600"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1733,35 +1733,35 @@ data = {
           "103901": {
             "name": {
               "th": "คลองเตยเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.743",
               "lng": "100.560"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103902": {
             "name": {
               "th": "คลองตันเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.736",
               "lng": "100.576"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "103903": {
             "name": {
               "th": "พระโขนงเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.719",
               "lng": "100.596"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1774,46 +1774,46 @@ data = {
           "104001": {
             "name": {
               "th": "บางแค",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.698",
               "lng": "100.409"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104002": {
             "name": {
               "th": "บางแคเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.720",
               "lng": "100.400"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104003": {
             "name": {
               "th": "บางไผ่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.741",
               "lng": "100.385"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104004": {
             "name": {
               "th": "หลักสอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.683",
               "lng": "100.396"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1826,24 +1826,24 @@ data = {
           "104101": {
             "name": {
               "th": "ทุ่งสองห้อง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.883",
               "lng": "100.564"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104102": {
             "name": {
               "th": "ตลาดบางเขน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.871",
               "lng": "100.580"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1856,35 +1856,35 @@ data = {
           "104201": {
             "name": {
               "th": "สายไหม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.921",
               "lng": "100.654"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104202": {
             "name": {
               "th": "ออเงิน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.896",
               "lng": "100.672"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104203": {
             "name": {
               "th": "คลองถนน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.898",
               "lng": "100.630"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1897,13 +1897,13 @@ data = {
           "104301": {
             "name": {
               "th": "คันนายาว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.821",
               "lng": "100.677"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1916,13 +1916,13 @@ data = {
           "104401": {
             "name": {
               "th": "สะพานสูง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.761",
               "lng": "100.688"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1935,13 +1935,13 @@ data = {
           "104501": {
             "name": {
               "th": "วังทองหลาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.779",
               "lng": "100.609"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -1954,57 +1954,57 @@ data = {
           "104601": {
             "name": {
               "th": "สามวาตะวันตก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.889",
               "lng": "100.708"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104602": {
             "name": {
               "th": "สามวาตะวันออก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.896",
               "lng": "100.760"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104603": {
             "name": {
               "th": "บางชัน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.839",
               "lng": "100.700"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104604": {
             "name": {
               "th": "ทรายกองดิน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.854",
               "lng": "100.745"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104605": {
             "name": {
               "th": "ทรายกองดินใต้",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.861",
               "lng": "100.786"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -2017,13 +2017,13 @@ data = {
           "104701": {
             "name": {
               "th": "บางนา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.672",
               "lng": "100.616"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -2036,24 +2036,24 @@ data = {
           "104801": {
             "name": {
               "th": "ทวีวัฒนา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.758",
               "lng": "100.348"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104802": {
             "name": {
               "th": "ศาลาธรรมสพน์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.783",
               "lng": "100.390"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -2066,24 +2066,24 @@ data = {
           "104901": {
             "name": {
               "th": "บางมด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.651",
               "lng": "100.510"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "104902": {
             "name": {
               "th": "ทุ่งครุ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.614",
               "lng": "100.497"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -2096,13 +2096,13 @@ data = {
           "105001": {
             "name": {
               "th": "บางบอน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.646",
               "lng": "100.370"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -2123,7 +2123,7 @@ data = {
           "110101": {
             "name": {
               "th": "เทศบาลนครสมุทรปราการ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.593",
@@ -2134,7 +2134,7 @@ data = {
           "110102": {
             "name": {
               "th": "สำโรงเหนือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.649",
@@ -2145,7 +2145,7 @@ data = {
           "110103": {
             "name": {
               "th": "บางเมือง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.601",
@@ -2156,7 +2156,7 @@ data = {
           "110104": {
             "name": {
               "th": "ท้ายบ้าน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.556",
@@ -2167,7 +2167,7 @@ data = {
           "110105": {
             "name": {
               "th": "ท้ายบ้านใหม่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.572",
@@ -2178,7 +2178,7 @@ data = {
           "110108": {
             "name": {
               "th": "บางปูใหม่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.526",
@@ -2189,7 +2189,7 @@ data = {
           "110110": {
             "name": {
               "th": "แพรกษา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.564",
@@ -2200,7 +2200,7 @@ data = {
           "110111": {
             "name": {
               "th": "บางโปรง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.623",
@@ -2222,7 +2222,7 @@ data = {
           "110113": {
             "name": {
               "th": "บางด้วน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.622",
@@ -2244,7 +2244,7 @@ data = {
           "110115": {
             "name": {
               "th": "เทพารักษ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.634",
@@ -2255,7 +2255,7 @@ data = {
           "110117": {
             "name": {
               "th": "แพรกษาใหม่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.559",
@@ -2274,7 +2274,7 @@ data = {
           "110201": {
             "name": {
               "th": "บางบ่อ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.611",
@@ -2285,7 +2285,7 @@ data = {
           "110202": {
             "name": {
               "th": "บ้านระกาศ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.639",
@@ -2296,7 +2296,7 @@ data = {
           "110203": {
             "name": {
               "th": "บางพลีน้อย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.574",
@@ -2307,7 +2307,7 @@ data = {
           "110204": {
             "name": {
               "th": "บางเพรียง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.545",
@@ -2318,7 +2318,7 @@ data = {
           "110205": {
             "name": {
               "th": "คลองด่าน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.511",
@@ -2329,7 +2329,7 @@ data = {
           "110206": {
             "name": {
               "th": "คลองสวน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.659",
@@ -2340,7 +2340,7 @@ data = {
           "110207": {
             "name": {
               "th": "เปร็ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.672",
@@ -2351,7 +2351,7 @@ data = {
           "110208": {
             "name": {
               "th": "คลองนิยมยาตรา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.624",
@@ -2370,7 +2370,7 @@ data = {
           "110301": {
             "name": {
               "th": "บางพลีใหญ่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.618",
@@ -2381,7 +2381,7 @@ data = {
           "110302": {
             "name": {
               "th": "บางแก้ว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.642",
@@ -2392,7 +2392,7 @@ data = {
           "110303": {
             "name": {
               "th": "บางปลา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.561",
@@ -2403,7 +2403,7 @@ data = {
           "110304": {
             "name": {
               "th": "บางโฉลง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.623",
@@ -2414,7 +2414,7 @@ data = {
           "110308": {
             "name": {
               "th": "ราชาเทวะ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.681",
@@ -2425,7 +2425,7 @@ data = {
           "110309": {
             "name": {
               "th": "หนองปรือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.678",
@@ -2623,7 +2623,7 @@ data = {
               "lat": "13.530",
               "lng": "100.494"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "110502": {
             "name": {
@@ -2634,7 +2634,7 @@ data = {
               "lat": "13.571",
               "lng": "100.476"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "110503": {
             "name": {
@@ -2645,7 +2645,7 @@ data = {
               "lat": "13.539",
               "lng": "100.559"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "110504": {
             "name": {
@@ -2656,7 +2656,7 @@ data = {
               "lat": "13.606",
               "lng": "100.567"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "110505": {
             "name": {
@@ -2667,7 +2667,7 @@ data = {
               "lat": "13.588",
               "lng": "100.541"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -2686,7 +2686,7 @@ data = {
               "lat": "13.600",
               "lng": "100.815"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "110602": {
             "name": {
@@ -3237,7 +3237,7 @@ data = {
               "lat": "13.930",
               "lng": "100.546"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "120604": {
             "name": {
@@ -4337,7 +4337,7 @@ data = {
               "lat": "14.550",
               "lng": "100.741"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140203": {
             "name": {
@@ -4771,7 +4771,7 @@ data = {
               "lat": "14.236",
               "lng": "100.460"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140419": {
             "name": {
@@ -5029,7 +5029,7 @@ data = {
               "lat": "14.160",
               "lng": "100.594"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140603": {
             "name": {
@@ -5095,7 +5095,7 @@ data = {
               "lat": "14.260",
               "lng": "100.568"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140609": {
             "name": {
@@ -5150,7 +5150,7 @@ data = {
               "lat": "14.239",
               "lng": "100.557"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140614": {
             "name": {
@@ -5323,7 +5323,7 @@ data = {
               "lat": "14.492",
               "lng": "100.510"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140712": {
             "name": {
@@ -5518,7 +5518,7 @@ data = {
               "lat": "14.500",
               "lng": "100.388"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "140812": {
             "name": {
@@ -6226,7 +6226,7 @@ data = {
               "lat": "14.392",
               "lng": "100.689"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "141408": {
             "name": {
@@ -6322,7 +6322,7 @@ data = {
               "lat": "14.566",
               "lng": "100.542"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "141505": {
             "name": {
@@ -6410,7 +6410,7 @@ data = {
               "lat": "14.531",
               "lng": "100.500"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -6440,7 +6440,7 @@ data = {
               "lat": "14.655",
               "lng": "100.586"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "141603": {
             "name": {
@@ -7123,7 +7123,7 @@ data = {
               "lat": "14.590",
               "lng": "100.366"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "150602": {
             "name": {
@@ -8438,7 +8438,7 @@ data = {
               "lat": "15.071",
               "lng": "101.117"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160702": {
             "name": {
@@ -8449,7 +8449,7 @@ data = {
               "lat": "15.014",
               "lng": "101.085"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160703": {
             "name": {
@@ -8460,7 +8460,7 @@ data = {
               "lat": "15.026",
               "lng": "101.228"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160704": {
             "name": {
@@ -8471,7 +8471,7 @@ data = {
               "lat": "15.119",
               "lng": "101.216"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160705": {
             "name": {
@@ -8512,7 +8512,7 @@ data = {
               "lat": "15.224",
               "lng": "100.846"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160802": {
             "name": {
@@ -8534,7 +8534,7 @@ data = {
               "lat": "15.169",
               "lng": "100.817"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160804": {
             "name": {
@@ -8575,7 +8575,7 @@ data = {
               "lat": "15.408",
               "lng": "100.777"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160902": {
             "name": {
@@ -8586,7 +8586,7 @@ data = {
               "lat": "15.366",
               "lng": "100.935"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160903": {
             "name": {
@@ -8597,7 +8597,7 @@ data = {
               "lat": "15.515",
               "lng": "100.839"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160904": {
             "name": {
@@ -8608,7 +8608,7 @@ data = {
               "lat": "15.469",
               "lng": "100.811"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "160905": {
             "name": {
@@ -8638,7 +8638,7 @@ data = {
               "lat": "15.341",
               "lng": "101.362"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161002": {
             "name": {
@@ -8649,7 +8649,7 @@ data = {
               "lat": "15.193",
               "lng": "101.354"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161003": {
             "name": {
@@ -8660,7 +8660,7 @@ data = {
               "lat": "15.282",
               "lng": "101.319"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161004": {
             "name": {
@@ -8671,7 +8671,7 @@ data = {
               "lat": "15.523",
               "lng": "101.346"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161005": {
             "name": {
@@ -8682,7 +8682,7 @@ data = {
               "lat": "15.374",
               "lng": "101.330"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161006": {
             "name": {
@@ -8712,7 +8712,7 @@ data = {
               "lat": "15.230",
               "lng": "100.664"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161102": {
             "name": {
@@ -8723,7 +8723,7 @@ data = {
               "lat": "15.293",
               "lng": "100.652"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161103": {
             "name": {
@@ -8734,7 +8734,7 @@ data = {
               "lat": "15.385",
               "lng": "100.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161104": {
             "name": {
@@ -8745,7 +8745,7 @@ data = {
               "lat": "15.288",
               "lng": "100.763"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161105": {
             "name": {
@@ -8756,7 +8756,7 @@ data = {
               "lat": "15.248",
               "lng": "100.702"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "161106": {
             "name": {
@@ -8767,7 +8767,7 @@ data = {
               "lat": "15.195",
               "lng": "100.709"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -9877,7 +9877,7 @@ data = {
               "lat": "15.216",
               "lng": "99.772"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "180702": {
             "name": {
@@ -9888,7 +9888,7 @@ data = {
               "lat": "15.278",
               "lng": "99.802"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "180703": {
             "name": {
@@ -9899,7 +9899,7 @@ data = {
               "lat": "15.197",
               "lng": "99.827"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "180704": {
             "name": {
@@ -9910,7 +9910,7 @@ data = {
               "lat": "15.241",
               "lng": "99.894"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -9929,7 +9929,7 @@ data = {
               "lat": "14.957",
               "lng": "99.901"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "180802": {
             "name": {
@@ -9940,7 +9940,7 @@ data = {
               "lat": "15.036",
               "lng": "99.816"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "180803": {
             "name": {
@@ -9951,7 +9951,7 @@ data = {
               "lat": "14.968",
               "lng": "99.828"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -10752,7 +10752,7 @@ data = {
               "lat": "14.596",
               "lng": "100.621"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "190702": {
             "name": {
@@ -10763,7 +10763,7 @@ data = {
               "lat": "14.625",
               "lng": "100.632"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "190703": {
             "name": {
@@ -10774,7 +10774,7 @@ data = {
               "lat": "14.571",
               "lng": "100.620"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "190704": {
             "name": {
@@ -10785,7 +10785,7 @@ data = {
               "lat": "14.624",
               "lng": "100.599"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -11166,7 +11166,7 @@ data = {
               "lat": "14.745",
               "lng": "101.116"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191202": {
             "name": {
@@ -11177,7 +11177,7 @@ data = {
               "lat": "14.818",
               "lng": "101.132"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191203": {
             "name": {
@@ -11188,7 +11188,7 @@ data = {
               "lat": "14.861",
               "lng": "101.151"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -11207,7 +11207,7 @@ data = {
               "lat": "14.612",
               "lng": "100.906"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191302": {
             "name": {
@@ -11218,7 +11218,7 @@ data = {
               "lat": "14.582",
               "lng": "100.936"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191303": {
             "name": {
@@ -11229,7 +11229,7 @@ data = {
               "lat": "14.607",
               "lng": "100.931"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191304": {
             "name": {
@@ -11240,7 +11240,7 @@ data = {
               "lat": "14.656",
               "lng": "100.905"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191305": {
             "name": {
@@ -11251,7 +11251,7 @@ data = {
               "lat": "14.626",
               "lng": "100.877"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "191306": {
             "name": {
@@ -11262,7 +11262,7 @@ data = {
               "lat": "14.713",
               "lng": "100.904"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -11591,7 +11591,7 @@ data = {
               "lat": "13.153",
               "lng": "101.375"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "200302": {
             "name": {
@@ -11602,7 +11602,7 @@ data = {
               "lat": "13.115",
               "lng": "101.476"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "200303": {
             "name": {
@@ -11613,7 +11613,7 @@ data = {
               "lat": "13.117",
               "lng": "101.283"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "200304": {
             "name": {
@@ -11648,7 +11648,7 @@ data = {
           "200401": {
             "name": {
               "th": "บางละมุง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.052",
@@ -11736,13 +11736,13 @@ data = {
           "200409": {
             "name": {
               "th": "เขตการปกคองพิเศษพัทยา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "12.910",
               "lng": "100.884"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -12011,7 +12011,7 @@ data = {
               "lat": "13.511",
               "lng": "101.254"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "200614": {
             "name": {
@@ -12123,7 +12123,7 @@ data = {
           "200703": {
             "name": {
               "th": "ทุ่งสุขลา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.097",
@@ -12203,7 +12203,7 @@ data = {
               "lat": "13.151",
               "lng": "100.809"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -12285,7 +12285,7 @@ data = {
               "lat": "13.193",
               "lng": "101.504"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "201002": {
             "name": {
@@ -12296,7 +12296,7 @@ data = {
               "lat": "13.332",
               "lng": "101.419"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "201003": {
             "name": {
@@ -12307,7 +12307,7 @@ data = {
               "lat": "13.318",
               "lng": "101.308"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "201004": {
             "name": {
@@ -12359,7 +12359,7 @@ data = {
               "lat": "13.403",
               "lng": "101.421"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "201102": {
             "name": {
@@ -12370,7 +12370,7 @@ data = {
               "lat": "13.389",
               "lng": "101.288"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -12548,7 +12548,7 @@ data = {
               "lat": "12.804",
               "lng": "101.066"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210202": {
             "name": {
@@ -12559,7 +12559,7 @@ data = {
               "lat": "12.688",
               "lng": "101.025"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210203": {
             "name": {
@@ -12762,7 +12762,7 @@ data = {
               "lat": "12.858",
               "lng": "101.528"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210402": {
             "name": {
@@ -12773,7 +12773,7 @@ data = {
               "lat": "12.956",
               "lng": "101.526"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210403": {
             "name": {
@@ -12899,7 +12899,7 @@ data = {
               "lat": "12.978",
               "lng": "101.226"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210602": {
             "name": {
@@ -12910,7 +12910,7 @@ data = {
               "lat": "13.038",
               "lng": "101.225"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210603": {
             "name": {
@@ -12921,7 +12921,7 @@ data = {
               "lat": "12.973",
               "lng": "101.311"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210604": {
             "name": {
@@ -12932,7 +12932,7 @@ data = {
               "lat": "12.908",
               "lng": "101.230"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210605": {
             "name": {
@@ -12943,7 +12943,7 @@ data = {
               "lat": "12.970",
               "lng": "101.136"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210606": {
             "name": {
@@ -12954,7 +12954,7 @@ data = {
               "lat": "13.039",
               "lng": "101.338"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -12973,7 +12973,7 @@ data = {
               "lat": "12.901",
               "lng": "101.749"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210702": {
             "name": {
@@ -12984,7 +12984,7 @@ data = {
               "lat": "13.027",
               "lng": "101.686"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210703": {
             "name": {
@@ -12995,7 +12995,7 @@ data = {
               "lat": "12.933",
               "lng": "101.641"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210704": {
             "name": {
@@ -13006,7 +13006,7 @@ data = {
               "lat": "13.062",
               "lng": "101.617"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -13025,7 +13025,7 @@ data = {
               "lat": "12.856",
               "lng": "101.177"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210802": {
             "name": {
@@ -13036,7 +13036,7 @@ data = {
               "lat": "12.782",
               "lng": "101.193"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210803": {
             "name": {
@@ -13047,7 +13047,7 @@ data = {
               "lat": "12.902",
               "lng": "101.135"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "210804": {
             "name": {
@@ -13058,7 +13058,7 @@ data = {
               "lat": "12.847",
               "lng": "101.101"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -13738,7 +13738,7 @@ data = {
               "lat": "13.170",
               "lng": "102.194"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220702": {
             "name": {
@@ -13749,7 +13749,7 @@ data = {
               "lat": "13.232",
               "lng": "102.319"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220703": {
             "name": {
@@ -13760,7 +13760,7 @@ data = {
               "lat": "13.265",
               "lng": "102.161"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220704": {
             "name": {
@@ -13771,7 +13771,7 @@ data = {
               "lat": "13.086",
               "lng": "102.197"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220705": {
             "name": {
@@ -13782,7 +13782,7 @@ data = {
               "lat": "13.174",
               "lng": "102.371"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -13801,7 +13801,7 @@ data = {
               "lat": "12.982",
               "lng": "101.929"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220802": {
             "name": {
@@ -13812,7 +13812,7 @@ data = {
               "lat": "13.169",
               "lng": "101.961"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220803": {
             "name": {
@@ -13823,7 +13823,7 @@ data = {
               "lat": "12.977",
               "lng": "101.817"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220804": {
             "name": {
@@ -13834,7 +13834,7 @@ data = {
               "lat": "13.105",
               "lng": "101.791"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220805": {
             "name": {
@@ -13845,7 +13845,7 @@ data = {
               "lat": "12.881",
               "lng": "101.848"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -13864,7 +13864,7 @@ data = {
               "lat": "12.782",
               "lng": "101.847"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220902": {
             "name": {
@@ -13875,7 +13875,7 @@ data = {
               "lat": "12.701",
               "lng": "101.933"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220903": {
             "name": {
@@ -13886,7 +13886,7 @@ data = {
               "lat": "12.689",
               "lng": "101.861"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220904": {
             "name": {
@@ -13897,7 +13897,7 @@ data = {
               "lat": "12.625",
               "lng": "101.874"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220905": {
             "name": {
@@ -13908,7 +13908,7 @@ data = {
               "lat": "12.707",
               "lng": "101.819"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "220906": {
             "name": {
@@ -13949,7 +13949,7 @@ data = {
               "lat": "12.822",
               "lng": "102.106"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "221003": {
             "name": {
@@ -13960,7 +13960,7 @@ data = {
               "lat": "12.903",
               "lng": "102.132"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "221004": {
             "name": {
@@ -13971,7 +13971,7 @@ data = {
               "lat": "12.931",
               "lng": "102.014"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "221005": {
             "name": {
@@ -14297,7 +14297,7 @@ data = {
               "lat": "12.604",
               "lng": "102.559"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230402": {
             "name": {
@@ -14308,7 +14308,7 @@ data = {
               "lat": "12.585",
               "lng": "102.469"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230403": {
             "name": {
@@ -14319,7 +14319,7 @@ data = {
               "lat": "12.461",
               "lng": "102.664"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230404": {
             "name": {
@@ -14330,7 +14330,7 @@ data = {
               "lat": "12.683",
               "lng": "102.447"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230405": {
             "name": {
@@ -14393,7 +14393,7 @@ data = {
               "lat": "12.226",
               "lng": "102.362"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -14412,7 +14412,7 @@ data = {
               "lat": "11.818",
               "lng": "102.481"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230602": {
             "name": {
@@ -14423,7 +14423,7 @@ data = {
               "lat": "11.657",
               "lng": "102.567"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -14442,7 +14442,7 @@ data = {
               "lat": "12.070",
               "lng": "102.321"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "230702": {
             "name": {
@@ -14453,7 +14453,7 @@ data = {
               "lat": "11.996",
               "lng": "102.331"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -15498,7 +15498,7 @@ data = {
               "lat": "13.508",
               "lng": "101.639"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "241002": {
             "name": {
@@ -15509,7 +15509,7 @@ data = {
               "lat": "13.299",
               "lng": "101.739"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -15528,7 +15528,7 @@ data = {
               "lat": "13.765",
               "lng": "101.136"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "241102": {
             "name": {
@@ -15539,7 +15539,7 @@ data = {
               "lat": "13.772",
               "lng": "101.185"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "241103": {
             "name": {
@@ -15550,7 +15550,7 @@ data = {
               "lat": "13.721",
               "lng": "101.150"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "241104": {
             "name": {
@@ -15561,7 +15561,7 @@ data = {
               "lat": "13.824",
               "lng": "101.137"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "241105": {
             "name": {
@@ -15572,7 +15572,7 @@ data = {
               "lat": "13.736",
               "lng": "101.165"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -15901,7 +15901,7 @@ data = {
               "lat": "14.189",
               "lng": "101.792"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250302": {
             "name": {
@@ -15923,7 +15923,7 @@ data = {
               "lat": "14.152",
               "lng": "101.665"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250304": {
             "name": {
@@ -15934,7 +15934,7 @@ data = {
               "lat": "14.141",
               "lng": "101.889"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250305": {
             "name": {
@@ -16164,7 +16164,7 @@ data = {
           "250709": {
             "name": {
               "th": "โพธิ์งาม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "14.214",
@@ -16307,7 +16307,7 @@ data = {
               "lat": "13.880",
               "lng": "101.412"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250902": {
             "name": {
@@ -16318,7 +16318,7 @@ data = {
               "lat": "13.845",
               "lng": "101.448"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250903": {
             "name": {
@@ -16329,7 +16329,7 @@ data = {
               "lat": "13.926",
               "lng": "101.410"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "250904": {
             "name": {
@@ -16340,7 +16340,7 @@ data = {
               "lat": "13.919",
               "lng": "101.372"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -16715,7 +16715,7 @@ data = {
           "260401": {
             "name": {
               "th": "พระอาจารย์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "13.986",
@@ -17220,7 +17220,7 @@ data = {
               "lat": "13.799",
               "lng": "102.372"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270508": {
             "name": {
@@ -17434,7 +17434,7 @@ data = {
               "lat": "13.663",
               "lng": "102.098"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270702": {
             "name": {
@@ -17445,7 +17445,7 @@ data = {
               "lat": "13.672",
               "lng": "102.037"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270703": {
             "name": {
@@ -17456,7 +17456,7 @@ data = {
               "lat": "13.596",
               "lng": "102.042"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270704": {
             "name": {
@@ -17467,7 +17467,7 @@ data = {
               "lat": "13.708",
               "lng": "102.118"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -17486,7 +17486,7 @@ data = {
               "lat": "13.831",
               "lng": "102.719"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270802": {
             "name": {
@@ -17497,7 +17497,7 @@ data = {
               "lat": "13.874",
               "lng": "102.582"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270803": {
             "name": {
@@ -17508,7 +17508,7 @@ data = {
               "lat": "13.866",
               "lng": "102.674"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270804": {
             "name": {
@@ -17519,7 +17519,7 @@ data = {
               "lat": "13.774",
               "lng": "102.664"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -17538,7 +17538,7 @@ data = {
               "lat": "13.344",
               "lng": "102.207"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270902": {
             "name": {
@@ -17549,7 +17549,7 @@ data = {
               "lat": "13.413",
               "lng": "102.039"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "270903": {
             "name": {
@@ -17560,7 +17560,7 @@ data = {
               "lat": "13.338",
               "lng": "102.081"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -17925,7 +17925,7 @@ data = {
               "lat": "14.449",
               "lng": "102.207"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "300209": {
             "name": {
@@ -18825,7 +18825,7 @@ data = {
               "lat": "15.315",
               "lng": "102.321"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301009": {
             "name": {
@@ -19179,7 +19179,7 @@ data = {
               "lat": "15.583",
               "lng": "102.707"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301308": {
             "name": {
@@ -19319,7 +19319,7 @@ data = {
               "lat": "14.650",
               "lng": "102.063"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301405": {
             "name": {
@@ -19470,7 +19470,7 @@ data = {
               "lat": "15.206",
               "lng": "102.489"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301502": {
             "name": {
@@ -19591,7 +19591,7 @@ data = {
               "lat": "15.113",
               "lng": "102.440"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -19654,7 +19654,7 @@ data = {
               "lat": "14.995",
               "lng": "102.565"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301606": {
             "name": {
@@ -19665,7 +19665,7 @@ data = {
               "lat": "15.077",
               "lng": "102.689"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301607": {
             "name": {
@@ -19772,7 +19772,7 @@ data = {
               "lat": "15.109",
               "lng": "102.773"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "301710": {
             "name": {
@@ -20351,7 +20351,7 @@ data = {
               "lat": "14.654",
               "lng": "102.397"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302207": {
             "name": {
@@ -20384,7 +20384,7 @@ data = {
               "lat": "14.754",
               "lng": "102.398"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20403,7 +20403,7 @@ data = {
               "lat": "15.727",
               "lng": "102.277"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302302": {
             "name": {
@@ -20414,7 +20414,7 @@ data = {
               "lat": "15.750",
               "lng": "102.325"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302303": {
             "name": {
@@ -20425,7 +20425,7 @@ data = {
               "lat": "15.661",
               "lng": "102.236"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302304": {
             "name": {
@@ -20436,7 +20436,7 @@ data = {
               "lat": "15.640",
               "lng": "102.175"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302305": {
             "name": {
@@ -20466,7 +20466,7 @@ data = {
               "lat": "15.435",
               "lng": "102.488"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302403": {
             "name": {
@@ -20477,7 +20477,7 @@ data = {
               "lat": "15.452",
               "lng": "102.568"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302404": {
             "name": {
@@ -20488,7 +20488,7 @@ data = {
               "lat": "15.505",
               "lng": "102.567"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302405": {
             "name": {
@@ -20499,7 +20499,7 @@ data = {
               "lat": "15.410",
               "lng": "102.536"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20518,7 +20518,7 @@ data = {
               "lat": "14.399",
               "lng": "101.817"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302502": {
             "name": {
@@ -20529,7 +20529,7 @@ data = {
               "lat": "14.474",
               "lng": "101.769"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302503": {
             "name": {
@@ -20540,7 +20540,7 @@ data = {
               "lat": "14.574",
               "lng": "101.731"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302504": {
             "name": {
@@ -20551,7 +20551,7 @@ data = {
               "lat": "14.490",
               "lng": "101.969"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302505": {
             "name": {
@@ -20581,7 +20581,7 @@ data = {
               "lat": "15.297",
               "lng": "101.564"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302602": {
             "name": {
@@ -20592,7 +20592,7 @@ data = {
               "lat": "15.256",
               "lng": "101.436"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302603": {
             "name": {
@@ -20603,7 +20603,7 @@ data = {
               "lat": "15.303",
               "lng": "101.411"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302604": {
             "name": {
@@ -20633,7 +20633,7 @@ data = {
               "lat": "15.418",
               "lng": "102.886"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302702": {
             "name": {
@@ -20644,7 +20644,7 @@ data = {
               "lat": "15.440",
               "lng": "102.957"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302703": {
             "name": {
@@ -20655,7 +20655,7 @@ data = {
               "lat": "15.487",
               "lng": "102.889"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302704": {
             "name": {
@@ -20666,7 +20666,7 @@ data = {
               "lat": "15.426",
               "lng": "102.812"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20685,7 +20685,7 @@ data = {
               "lat": "15.311",
               "lng": "101.959"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302802": {
             "name": {
@@ -20696,7 +20696,7 @@ data = {
               "lat": "15.369",
               "lng": "101.926"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302803": {
             "name": {
@@ -20707,7 +20707,7 @@ data = {
               "lat": "15.275",
               "lng": "101.995"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302804": {
             "name": {
@@ -20718,7 +20718,7 @@ data = {
               "lat": "15.406",
               "lng": "101.976"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302805": {
             "name": {
@@ -20729,7 +20729,7 @@ data = {
               "lat": "15.334",
               "lng": "102.056"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20748,7 +20748,7 @@ data = {
               "lat": "15.353",
               "lng": "102.866"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302902": {
             "name": {
@@ -20759,7 +20759,7 @@ data = {
               "lat": "15.250",
               "lng": "102.944"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302903": {
             "name": {
@@ -20770,7 +20770,7 @@ data = {
               "lat": "15.276",
               "lng": "102.874"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "302904": {
             "name": {
@@ -20781,7 +20781,7 @@ data = {
               "lat": "15.360",
               "lng": "102.971"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20800,7 +20800,7 @@ data = {
               "lat": "15.649",
               "lng": "102.532"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303002": {
             "name": {
@@ -20811,7 +20811,7 @@ data = {
               "lat": "15.699",
               "lng": "102.472"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303003": {
             "name": {
@@ -20822,7 +20822,7 @@ data = {
               "lat": "15.661",
               "lng": "102.468"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303004": {
             "name": {
@@ -20833,7 +20833,7 @@ data = {
               "lat": "15.667",
               "lng": "102.573"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20852,7 +20852,7 @@ data = {
               "lat": "15.564",
               "lng": "102.588"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303102": {
             "name": {
@@ -20863,7 +20863,7 @@ data = {
               "lat": "15.540",
               "lng": "102.590"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303103": {
             "name": {
@@ -20874,7 +20874,7 @@ data = {
               "lat": "15.521",
               "lng": "102.479"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303104": {
             "name": {
@@ -20885,7 +20885,7 @@ data = {
               "lat": "15.591",
               "lng": "102.537"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303105": {
             "name": {
@@ -20896,7 +20896,7 @@ data = {
               "lat": "15.617",
               "lng": "102.591"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -20915,7 +20915,7 @@ data = {
               "lat": "15.029",
               "lng": "102.310"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303202": {
             "name": {
@@ -20926,7 +20926,7 @@ data = {
               "lat": "14.981",
               "lng": "102.323"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303203": {
             "name": {
@@ -20937,7 +20937,7 @@ data = {
               "lat": "14.975",
               "lng": "102.232"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303204": {
             "name": {
@@ -20948,7 +20948,7 @@ data = {
               "lat": "15.053",
               "lng": "102.234"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "303205": {
             "name": {
@@ -20959,7 +20959,7 @@ data = {
               "lat": "14.930",
               "lng": "102.287"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -21214,7 +21214,7 @@ data = {
               "lat": "15.391",
               "lng": "103.054"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310203": {
             "name": {
@@ -21288,7 +21288,7 @@ data = {
               "lat": "14.922",
               "lng": "103.296"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310302": {
             "name": {
@@ -21439,7 +21439,7 @@ data = {
               "lat": "14.561",
               "lng": "102.666"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310406": {
             "name": {
@@ -21590,7 +21590,7 @@ data = {
               "lat": "14.669",
               "lng": "102.571"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310502": {
             "name": {
@@ -21601,7 +21601,7 @@ data = {
               "lat": "14.739",
               "lng": "102.564"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310503": {
             "name": {
@@ -21612,7 +21612,7 @@ data = {
               "lat": "14.774",
               "lng": "102.645"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310504": {
             "name": {
@@ -21623,7 +21623,7 @@ data = {
               "lat": "14.642",
               "lng": "102.571"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310505": {
             "name": {
@@ -21999,7 +21999,7 @@ data = {
               "lat": "14.362",
               "lng": "103.109"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310805": {
             "name": {
@@ -22128,7 +22128,7 @@ data = {
               "lat": "15.463",
               "lng": "103.097"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "310910": {
             "name": {
@@ -22257,7 +22257,7 @@ data = {
               "lat": "14.873",
               "lng": "102.886"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311011": {
             "name": {
@@ -22419,7 +22419,7 @@ data = {
               "lat": "15.137",
               "lng": "103.377"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311111": {
             "name": {
@@ -22463,7 +22463,7 @@ data = {
               "lat": "15.195",
               "lng": "103.405"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -22493,7 +22493,7 @@ data = {
               "lat": "14.461",
               "lng": "102.683"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311203": {
             "name": {
@@ -22608,7 +22608,7 @@ data = {
               "lat": "14.828",
               "lng": "102.681"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311402": {
             "name": {
@@ -22619,7 +22619,7 @@ data = {
               "lat": "14.871",
               "lng": "102.594"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311403": {
             "name": {
@@ -22630,7 +22630,7 @@ data = {
               "lat": "14.885",
               "lng": "102.763"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311404": {
             "name": {
@@ -22693,7 +22693,7 @@ data = {
               "lat": "14.678",
               "lng": "103.118"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311502": {
             "name": {
@@ -22704,7 +22704,7 @@ data = {
               "lat": "14.769",
               "lng": "103.193"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311503": {
             "name": {
@@ -22715,7 +22715,7 @@ data = {
               "lat": "14.717",
               "lng": "103.241"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311504": {
             "name": {
@@ -22726,7 +22726,7 @@ data = {
               "lat": "14.722",
               "lng": "103.168"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311505": {
             "name": {
@@ -22737,7 +22737,7 @@ data = {
               "lat": "14.776",
               "lng": "103.111"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -22756,7 +22756,7 @@ data = {
               "lat": "14.964",
               "lng": "103.183"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311602": {
             "name": {
@@ -22767,7 +22767,7 @@ data = {
               "lat": "15.009",
               "lng": "103.192"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311603": {
             "name": {
@@ -22778,7 +22778,7 @@ data = {
               "lat": "15.088",
               "lng": "103.285"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311604": {
             "name": {
@@ -22789,7 +22789,7 @@ data = {
               "lat": "14.969",
               "lng": "103.233"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311605": {
             "name": {
@@ -22800,7 +22800,7 @@ data = {
               "lat": "14.933",
               "lng": "103.182"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311606": {
             "name": {
@@ -22852,7 +22852,7 @@ data = {
               "lat": "14.538",
               "lng": "102.604"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311702": {
             "name": {
@@ -22863,7 +22863,7 @@ data = {
               "lat": "14.566",
               "lng": "102.558"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311703": {
             "name": {
@@ -22874,7 +22874,7 @@ data = {
               "lat": "14.621",
               "lng": "102.637"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311704": {
             "name": {
@@ -22885,7 +22885,7 @@ data = {
               "lat": "14.546",
               "lng": "102.517"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -22904,7 +22904,7 @@ data = {
               "lat": "14.785",
               "lng": "102.810"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311802": {
             "name": {
@@ -22915,7 +22915,7 @@ data = {
               "lat": "14.743",
               "lng": "102.844"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311803": {
             "name": {
@@ -22926,7 +22926,7 @@ data = {
               "lat": "14.794",
               "lng": "102.906"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311804": {
             "name": {
@@ -22937,7 +22937,7 @@ data = {
               "lat": "14.809",
               "lng": "102.787"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311805": {
             "name": {
@@ -22948,7 +22948,7 @@ data = {
               "lat": "14.780",
               "lng": "102.745"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311806": {
             "name": {
@@ -22978,7 +22978,7 @@ data = {
               "lat": "15.553",
               "lng": "102.907"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311902": {
             "name": {
@@ -22989,7 +22989,7 @@ data = {
               "lat": "15.608",
               "lng": "102.805"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311903": {
             "name": {
@@ -23011,7 +23011,7 @@ data = {
               "lat": "15.534",
               "lng": "102.860"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "311905": {
             "name": {
@@ -23022,7 +23022,7 @@ data = {
               "lat": "15.555",
               "lng": "102.811"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -23041,7 +23041,7 @@ data = {
               "lat": "14.316",
               "lng": "102.721"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312002": {
             "name": {
@@ -23052,7 +23052,7 @@ data = {
               "lat": "14.346",
               "lng": "102.764"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312003": {
             "name": {
@@ -23063,7 +23063,7 @@ data = {
               "lat": "14.213",
               "lng": "102.698"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -23082,7 +23082,7 @@ data = {
               "lat": "15.112",
               "lng": "103.162"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312102": {
             "name": {
@@ -23093,7 +23093,7 @@ data = {
               "lat": "15.081",
               "lng": "103.217"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312103": {
             "name": {
@@ -23104,7 +23104,7 @@ data = {
               "lat": "15.138",
               "lng": "103.219"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312104": {
             "name": {
@@ -23115,7 +23115,7 @@ data = {
               "lat": "15.191",
               "lng": "103.157"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -23134,7 +23134,7 @@ data = {
               "lat": "15.317",
               "lng": "103.123"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312202": {
             "name": {
@@ -23145,7 +23145,7 @@ data = {
               "lat": "15.321",
               "lng": "103.172"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312203": {
             "name": {
@@ -23156,7 +23156,7 @@ data = {
               "lat": "15.320",
               "lng": "103.077"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312204": {
             "name": {
@@ -23167,7 +23167,7 @@ data = {
               "lat": "15.267",
               "lng": "103.180"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -23186,7 +23186,7 @@ data = {
               "lat": "14.574",
               "lng": "102.865"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312302": {
             "name": {
@@ -23197,7 +23197,7 @@ data = {
               "lat": "14.568",
               "lng": "102.924"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312303": {
             "name": {
@@ -23208,7 +23208,7 @@ data = {
               "lat": "14.641",
               "lng": "102.931"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312304": {
             "name": {
@@ -23219,7 +23219,7 @@ data = {
               "lat": "14.518",
               "lng": "102.870"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "312305": {
             "name": {
@@ -23230,7 +23230,7 @@ data = {
               "lat": "14.505",
               "lng": "102.918"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -23578,7 +23578,7 @@ data = {
           "320209": {
             "name": {
               "th": "หนองเรือ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.312",
@@ -24034,7 +24034,7 @@ data = {
               "lat": "14.488",
               "lng": "103.585"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320604": {
             "name": {
@@ -24045,7 +24045,7 @@ data = {
               "lat": "14.533",
               "lng": "103.667"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320605": {
             "name": {
@@ -24056,7 +24056,7 @@ data = {
               "lat": "14.465",
               "lng": "103.709"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320606": {
             "name": {
@@ -24248,7 +24248,7 @@ data = {
               "lat": "15.203",
               "lng": "103.761"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320802": {
             "name": {
@@ -24259,7 +24259,7 @@ data = {
               "lat": "15.251",
               "lng": "103.766"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320803": {
             "name": {
@@ -24270,7 +24270,7 @@ data = {
               "lat": "15.152",
               "lng": "103.755"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320804": {
             "name": {
@@ -24281,7 +24281,7 @@ data = {
               "lat": "15.139",
               "lng": "103.793"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320805": {
             "name": {
@@ -24292,7 +24292,7 @@ data = {
               "lat": "15.170",
               "lng": "103.828"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320806": {
             "name": {
@@ -24388,7 +24388,7 @@ data = {
               "lat": "15.083",
               "lng": "103.760"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "320907": {
             "name": {
@@ -24753,7 +24753,7 @@ data = {
               "lat": "15.070",
               "lng": "103.949"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321206": {
             "name": {
@@ -24901,7 +24901,7 @@ data = {
               "lat": "14.416",
               "lng": "103.350"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321402": {
             "name": {
@@ -24912,7 +24912,7 @@ data = {
               "lat": "14.490",
               "lng": "103.249"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321403": {
             "name": {
@@ -24923,7 +24923,7 @@ data = {
               "lat": "14.497",
               "lng": "103.354"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321404": {
             "name": {
@@ -24934,7 +24934,7 @@ data = {
               "lat": "14.386",
               "lng": "103.260"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -24953,7 +24953,7 @@ data = {
               "lat": "14.754",
               "lng": "103.882"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321502": {
             "name": {
@@ -24964,7 +24964,7 @@ data = {
               "lat": "14.797",
               "lng": "103.922"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321503": {
             "name": {
@@ -24975,7 +24975,7 @@ data = {
               "lat": "14.802",
               "lng": "103.846"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321504": {
             "name": {
@@ -24986,7 +24986,7 @@ data = {
               "lat": "14.757",
               "lng": "103.977"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321505": {
             "name": {
@@ -24997,7 +24997,7 @@ data = {
               "lat": "14.738",
               "lng": "103.818"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -25016,7 +25016,7 @@ data = {
               "lat": "15.009",
               "lng": "103.582"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321602": {
             "name": {
@@ -25027,7 +25027,7 @@ data = {
               "lat": "15.060",
               "lng": "103.610"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321603": {
             "name": {
@@ -25038,7 +25038,7 @@ data = {
               "lat": "15.026",
               "lng": "103.644"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321604": {
             "name": {
@@ -25049,7 +25049,7 @@ data = {
               "lat": "14.976",
               "lng": "103.648"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321605": {
             "name": {
@@ -25060,7 +25060,7 @@ data = {
               "lat": "14.966",
               "lng": "103.576"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -25079,7 +25079,7 @@ data = {
               "lat": "15.228",
               "lng": "103.927"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321702": {
             "name": {
@@ -25090,7 +25090,7 @@ data = {
               "lat": "15.186",
               "lng": "103.942"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321703": {
             "name": {
@@ -25101,7 +25101,7 @@ data = {
               "lat": "15.173",
               "lng": "103.911"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321704": {
             "name": {
@@ -25112,7 +25112,7 @@ data = {
               "lat": "15.251",
               "lng": "103.885"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "321705": {
             "name": {
@@ -25123,7 +25123,7 @@ data = {
               "lat": "15.140",
               "lng": "103.880"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -25356,7 +25356,7 @@ data = {
               "lat": "15.223",
               "lng": "104.360"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330204": {
             "name": {
@@ -25474,7 +25474,7 @@ data = {
               "lat": "15.143",
               "lng": "104.702"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330307": {
             "name": {
@@ -25573,7 +25573,7 @@ data = {
               "lat": "14.995",
               "lng": "104.494"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330320": {
             "name": {
@@ -26188,7 +26188,7 @@ data = {
               "lat": "14.903",
               "lng": "104.009"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330705": {
             "name": {
@@ -26232,7 +26232,7 @@ data = {
               "lat": "14.782",
               "lng": "104.027"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330709": {
             "name": {
@@ -26468,7 +26468,7 @@ data = {
               "lat": "15.416",
               "lng": "104.162"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "330909": {
             "name": {
@@ -26630,7 +26630,7 @@ data = {
               "lat": "15.145",
               "lng": "104.093"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331008": {
             "name": {
@@ -26781,7 +26781,7 @@ data = {
               "lat": "15.297",
               "lng": "104.060"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331102": {
             "name": {
@@ -26811,7 +26811,7 @@ data = {
               "lat": "15.065",
               "lng": "104.044"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331202": {
             "name": {
@@ -26833,7 +26833,7 @@ data = {
               "lat": "14.966",
               "lng": "104.069"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331204": {
             "name": {
@@ -26844,7 +26844,7 @@ data = {
               "lat": "14.947",
               "lng": "104.013"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331205": {
             "name": {
@@ -26866,7 +26866,7 @@ data = {
               "lat": "15.110",
               "lng": "104.027"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -26885,7 +26885,7 @@ data = {
               "lat": "14.899",
               "lng": "104.710"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331302": {
             "name": {
@@ -26896,7 +26896,7 @@ data = {
               "lat": "14.976",
               "lng": "104.640"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331303": {
             "name": {
@@ -26907,7 +26907,7 @@ data = {
               "lat": "14.923",
               "lng": "104.614"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331304": {
             "name": {
@@ -26918,7 +26918,7 @@ data = {
               "lat": "14.861",
               "lng": "104.774"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331305": {
             "name": {
@@ -26948,7 +26948,7 @@ data = {
               "lat": "14.766",
               "lng": "104.476"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331402": {
             "name": {
@@ -26959,7 +26959,7 @@ data = {
               "lat": "14.744",
               "lng": "104.453"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331403": {
             "name": {
@@ -26970,7 +26970,7 @@ data = {
               "lat": "14.785",
               "lng": "104.515"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331404": {
             "name": {
@@ -26981,7 +26981,7 @@ data = {
               "lat": "14.866",
               "lng": "104.488"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331405": {
             "name": {
@@ -27033,7 +27033,7 @@ data = {
               "lat": "14.917",
               "lng": "104.550"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331502": {
             "name": {
@@ -27044,7 +27044,7 @@ data = {
               "lat": "14.930",
               "lng": "104.451"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331503": {
             "name": {
@@ -27055,7 +27055,7 @@ data = {
               "lat": "14.964",
               "lng": "104.479"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331504": {
             "name": {
@@ -27066,7 +27066,7 @@ data = {
               "lat": "14.852",
               "lng": "104.580"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331505": {
             "name": {
@@ -27107,7 +27107,7 @@ data = {
               "lat": "14.957",
               "lng": "104.209"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331602": {
             "name": {
@@ -27118,7 +27118,7 @@ data = {
               "lat": "14.988",
               "lng": "104.186"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331603": {
             "name": {
@@ -27129,7 +27129,7 @@ data = {
               "lat": "14.945",
               "lng": "104.271"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331604": {
             "name": {
@@ -27140,7 +27140,7 @@ data = {
               "lat": "14.992",
               "lng": "104.270"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331605": {
             "name": {
@@ -27151,7 +27151,7 @@ data = {
               "lat": "14.909",
               "lng": "104.155"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331606": {
             "name": {
@@ -27203,7 +27203,7 @@ data = {
               "lat": "14.549",
               "lng": "104.203"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331702": {
             "name": {
@@ -27214,7 +27214,7 @@ data = {
               "lat": "14.525",
               "lng": "104.077"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331703": {
             "name": {
@@ -27236,7 +27236,7 @@ data = {
               "lat": "14.588",
               "lng": "104.079"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331705": {
             "name": {
@@ -27247,7 +27247,7 @@ data = {
               "lat": "14.606",
               "lng": "104.169"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331706": {
             "name": {
@@ -27258,7 +27258,7 @@ data = {
               "lat": "14.440",
               "lng": "104.189"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331707": {
             "name": {
@@ -27288,7 +27288,7 @@ data = {
               "lat": "15.155",
               "lng": "104.011"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331802": {
             "name": {
@@ -27299,7 +27299,7 @@ data = {
               "lat": "15.205",
               "lng": "103.996"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331803": {
             "name": {
@@ -27310,7 +27310,7 @@ data = {
               "lat": "15.198",
               "lng": "104.035"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -27329,7 +27329,7 @@ data = {
               "lat": "14.799",
               "lng": "104.668"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331902": {
             "name": {
@@ -27340,7 +27340,7 @@ data = {
               "lat": "14.754",
               "lng": "104.722"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331903": {
             "name": {
@@ -27351,7 +27351,7 @@ data = {
               "lat": "14.836",
               "lng": "104.653"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331904": {
             "name": {
@@ -27362,7 +27362,7 @@ data = {
               "lat": "14.778",
               "lng": "104.594"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "331905": {
             "name": {
@@ -27373,7 +27373,7 @@ data = {
               "lat": "14.761",
               "lng": "104.783"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -27392,7 +27392,7 @@ data = {
               "lat": "14.935",
               "lng": "104.387"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332002": {
             "name": {
@@ -27403,7 +27403,7 @@ data = {
               "lat": "14.852",
               "lng": "104.427"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332003": {
             "name": {
@@ -27414,7 +27414,7 @@ data = {
               "lat": "14.918",
               "lng": "104.422"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332004": {
             "name": {
@@ -27425,7 +27425,7 @@ data = {
               "lat": "14.933",
               "lng": "104.327"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332005": {
             "name": {
@@ -27436,7 +27436,7 @@ data = {
               "lat": "14.898",
               "lng": "104.334"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -27455,7 +27455,7 @@ data = {
               "lat": "15.204",
               "lng": "104.078"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332102": {
             "name": {
@@ -27466,7 +27466,7 @@ data = {
               "lat": "15.251",
               "lng": "104.043"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332103": {
             "name": {
@@ -27477,7 +27477,7 @@ data = {
               "lat": "15.254",
               "lng": "104.083"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332104": {
             "name": {
@@ -27488,7 +27488,7 @@ data = {
               "lat": "15.233",
               "lng": "104.111"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332105": {
             "name": {
@@ -27499,7 +27499,7 @@ data = {
               "lat": "15.269",
               "lng": "104.009"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -27518,7 +27518,7 @@ data = {
               "lat": "15.474",
               "lng": "104.084"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332202": {
             "name": {
@@ -27529,7 +27529,7 @@ data = {
               "lat": "15.529",
               "lng": "104.109"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332203": {
             "name": {
@@ -27540,7 +27540,7 @@ data = {
               "lat": "15.458",
               "lng": "104.046"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "332204": {
             "name": {
@@ -27551,7 +27551,7 @@ data = {
               "lat": "15.473",
               "lng": "104.139"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -27572,7 +27572,7 @@ data = {
           "340101": {
             "name": {
               "th": "ในเมือง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.232",
@@ -28418,7 +28418,7 @@ data = {
               "lat": "14.688",
               "lng": "105.201"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "340803": {
             "name": {
@@ -28566,7 +28566,7 @@ data = {
               "lat": "14.759",
               "lng": "105.464"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "341002": {
             "name": {
@@ -28632,7 +28632,7 @@ data = {
               "lat": "14.741",
               "lng": "105.371"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "341008": {
             "name": {
@@ -29074,7 +29074,7 @@ data = {
               "lat": "15.443",
               "lng": "104.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "341410": {
             "name": {
@@ -29376,7 +29376,7 @@ data = {
               "lat": "15.069",
               "lng": "105.128"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "341907": {
             "name": {
@@ -29505,7 +29505,7 @@ data = {
               "lat": "15.380",
               "lng": "105.233"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342003": {
             "name": {
@@ -29568,7 +29568,7 @@ data = {
               "lat": "15.816",
               "lng": "105.261"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342102": {
             "name": {
@@ -29590,7 +29590,7 @@ data = {
               "lat": "15.728",
               "lng": "105.494"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342104": {
             "name": {
@@ -29642,7 +29642,7 @@ data = {
               "lat": "15.010",
               "lng": "104.793"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342202": {
             "name": {
@@ -29653,7 +29653,7 @@ data = {
               "lat": "15.033",
               "lng": "104.839"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342203": {
             "name": {
@@ -29664,7 +29664,7 @@ data = {
               "lat": "14.960",
               "lng": "104.760"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342204": {
             "name": {
@@ -29675,7 +29675,7 @@ data = {
               "lat": "14.922",
               "lng": "104.812"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342205": {
             "name": {
@@ -29686,7 +29686,7 @@ data = {
               "lat": "15.020",
               "lng": "104.720"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342206": {
             "name": {
@@ -29697,7 +29697,7 @@ data = {
               "lat": "14.936",
               "lng": "104.865"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342207": {
             "name": {
@@ -29708,7 +29708,7 @@ data = {
               "lat": "14.959",
               "lng": "104.713"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342208": {
             "name": {
@@ -29730,7 +29730,7 @@ data = {
               "lat": "14.981",
               "lng": "104.821"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -29749,7 +29749,7 @@ data = {
               "lat": "15.315",
               "lng": "105.065"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342402": {
             "name": {
@@ -29760,7 +29760,7 @@ data = {
               "lat": "15.375",
               "lng": "105.028"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342403": {
             "name": {
@@ -29771,18 +29771,18 @@ data = {
               "lat": "15.473",
               "lng": "104.968"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342404": {
             "name": {
               "th": "คำไฮใหญ่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.372",
               "lng": "104.968"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -29801,7 +29801,7 @@ data = {
               "lat": "15.225",
               "lng": "105.330"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342502": {
             "name": {
@@ -29812,7 +29812,7 @@ data = {
               "lat": "15.126",
               "lng": "105.414"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342503": {
             "name": {
@@ -29823,7 +29823,7 @@ data = {
               "lat": "14.993",
               "lng": "105.425"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342504": {
             "name": {
@@ -29845,7 +29845,7 @@ data = {
               "lat": "15.134",
               "lng": "105.364"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342506": {
             "name": {
@@ -29856,7 +29856,7 @@ data = {
               "lat": "15.240",
               "lng": "105.507"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -29875,7 +29875,7 @@ data = {
               "lat": "14.804",
               "lng": "104.922"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342603": {
             "name": {
@@ -29886,7 +29886,7 @@ data = {
               "lat": "14.723",
               "lng": "104.931"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342604": {
             "name": {
@@ -29897,7 +29897,7 @@ data = {
               "lat": "14.678",
               "lng": "104.955"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342605": {
             "name": {
@@ -29908,7 +29908,7 @@ data = {
               "lat": "14.752",
               "lng": "104.908"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342606": {
             "name": {
@@ -29938,7 +29938,7 @@ data = {
               "lat": "15.006",
               "lng": "105.143"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342902": {
             "name": {
@@ -29949,7 +29949,7 @@ data = {
               "lat": "15.116",
               "lng": "105.018"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "342903": {
             "name": {
@@ -29960,7 +29960,7 @@ data = {
               "lat": "14.987",
               "lng": "105.068"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -29979,7 +29979,7 @@ data = {
               "lat": "15.893",
               "lng": "105.310"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343002": {
             "name": {
@@ -29990,7 +29990,7 @@ data = {
               "lat": "15.960",
               "lng": "105.332"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343003": {
             "name": {
@@ -30001,7 +30001,7 @@ data = {
               "lat": "15.965",
               "lng": "105.270"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343004": {
             "name": {
@@ -30012,7 +30012,7 @@ data = {
               "lat": "15.921",
               "lng": "105.212"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -30031,7 +30031,7 @@ data = {
               "lat": "15.432",
               "lng": "104.918"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343102": {
             "name": {
@@ -30042,7 +30042,7 @@ data = {
               "lat": "15.492",
               "lng": "104.891"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343103": {
             "name": {
@@ -30053,7 +30053,7 @@ data = {
               "lat": "15.395",
               "lng": "104.881"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343104": {
             "name": {
@@ -30064,7 +30064,7 @@ data = {
               "lat": "15.423",
               "lng": "104.988"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -30083,7 +30083,7 @@ data = {
               "lat": "15.204",
               "lng": "105.087"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343202": {
             "name": {
@@ -30094,7 +30094,7 @@ data = {
               "lat": "15.229",
               "lng": "104.990"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343203": {
             "name": {
@@ -30105,7 +30105,7 @@ data = {
               "lat": "15.238",
               "lng": "105.045"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343204": {
             "name": {
@@ -30116,7 +30116,7 @@ data = {
               "lat": "15.274",
               "lng": "105.118"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -30135,7 +30135,7 @@ data = {
               "lat": "14.568",
               "lng": "104.919"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343302": {
             "name": {
@@ -30146,7 +30146,7 @@ data = {
               "lat": "14.603",
               "lng": "104.854"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343303": {
             "name": {
@@ -30157,7 +30157,7 @@ data = {
               "lat": "14.624",
               "lng": "104.899"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "343304": {
             "name": {
@@ -30168,7 +30168,7 @@ data = {
               "lat": "14.443",
               "lng": "104.848"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -30401,7 +30401,7 @@ data = {
               "lat": "15.956",
               "lng": "104.224"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350202": {
             "name": {
@@ -30423,7 +30423,7 @@ data = {
               "lat": "15.981",
               "lng": "104.135"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350204": {
             "name": {
@@ -30434,7 +30434,7 @@ data = {
               "lat": "16.070",
               "lng": "104.128"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350205": {
             "name": {
@@ -30903,7 +30903,7 @@ data = {
               "lat": "15.339",
               "lng": "104.405"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350702": {
             "name": {
@@ -30914,7 +30914,7 @@ data = {
               "lat": "15.415",
               "lng": "104.353"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350703": {
             "name": {
@@ -30925,7 +30925,7 @@ data = {
               "lat": "15.397",
               "lng": "104.280"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350704": {
             "name": {
@@ -30936,7 +30936,7 @@ data = {
               "lat": "15.363",
               "lng": "104.310"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -31073,7 +31073,7 @@ data = {
               "lat": "16.060",
               "lng": "104.432"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350902": {
             "name": {
@@ -31084,7 +31084,7 @@ data = {
               "lat": "16.015",
               "lng": "104.486"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350903": {
             "name": {
@@ -31095,7 +31095,7 @@ data = {
               "lat": "16.162",
               "lng": "104.432"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350904": {
             "name": {
@@ -31106,7 +31106,7 @@ data = {
               "lat": "16.100",
               "lng": "104.388"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "350905": {
             "name": {
@@ -31117,7 +31117,7 @@ data = {
               "lat": "16.061",
               "lng": "104.521"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -32022,7 +32022,7 @@ data = {
               "lat": "15.426",
               "lng": "101.436"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "360902": {
             "name": {
@@ -32033,7 +32033,7 @@ data = {
               "lat": "15.432",
               "lng": "101.547"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "360903": {
             "name": {
@@ -32044,7 +32044,7 @@ data = {
               "lat": "15.676",
               "lng": "101.517"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "360904": {
             "name": {
@@ -32055,7 +32055,7 @@ data = {
               "lat": "15.595",
               "lng": "101.456"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "360905": {
             "name": {
@@ -32140,7 +32140,7 @@ data = {
               "lat": "16.344",
               "lng": "102.256"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361007": {
             "name": {
@@ -32151,7 +32151,7 @@ data = {
               "lat": "16.475",
               "lng": "102.125"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361008": {
             "name": {
@@ -32277,7 +32277,7 @@ data = {
               "lat": "16.107",
               "lng": "102.236"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361202": {
             "name": {
@@ -32288,7 +32288,7 @@ data = {
               "lat": "16.164",
               "lng": "102.194"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361203": {
             "name": {
@@ -32310,7 +32310,7 @@ data = {
               "lat": "16.172",
               "lng": "102.325"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361205": {
             "name": {
@@ -32376,7 +32376,7 @@ data = {
               "lat": "16.130",
               "lng": "102.273"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -32491,7 +32491,7 @@ data = {
               "lat": "16.131",
               "lng": "101.375"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361402": {
             "name": {
@@ -32502,7 +32502,7 @@ data = {
               "lat": "15.888",
               "lng": "101.397"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361403": {
             "name": {
@@ -32513,7 +32513,7 @@ data = {
               "lat": "15.793",
               "lng": "101.372"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361404": {
             "name": {
@@ -32543,7 +32543,7 @@ data = {
               "lat": "15.559",
               "lng": "101.968"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361502": {
             "name": {
@@ -32554,7 +32554,7 @@ data = {
               "lat": "15.527",
               "lng": "102.016"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361503": {
             "name": {
@@ -32565,7 +32565,7 @@ data = {
               "lat": "15.632",
               "lng": "102.026"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361504": {
             "name": {
@@ -32576,7 +32576,7 @@ data = {
               "lat": "15.487",
               "lng": "101.964"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -32595,7 +32595,7 @@ data = {
               "lat": "15.602",
               "lng": "101.573"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361602": {
             "name": {
@@ -32606,7 +32606,7 @@ data = {
               "lat": "15.623",
               "lng": "101.708"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "361603": {
             "name": {
@@ -32617,7 +32617,7 @@ data = {
               "lat": "15.565",
               "lng": "101.670"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -32924,7 +32924,7 @@ data = {
               "lat": "15.973",
               "lng": "104.892"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370302": {
             "name": {
@@ -33061,7 +33061,7 @@ data = {
               "lat": "16.056",
               "lng": "104.685"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370502": {
             "name": {
@@ -33072,7 +33072,7 @@ data = {
               "lat": "16.069",
               "lng": "104.764"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370503": {
             "name": {
@@ -33083,7 +33083,7 @@ data = {
               "lat": "16.092",
               "lng": "104.639"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370504": {
             "name": {
@@ -33094,7 +33094,7 @@ data = {
               "lat": "16.029",
               "lng": "104.592"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370505": {
             "name": {
@@ -33105,7 +33105,7 @@ data = {
               "lat": "16.022",
               "lng": "104.787"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370506": {
             "name": {
@@ -33231,7 +33231,7 @@ data = {
               "lat": "15.710",
               "lng": "104.668"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370702": {
             "name": {
@@ -33242,7 +33242,7 @@ data = {
               "lat": "15.716",
               "lng": "104.617"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370703": {
             "name": {
@@ -33253,7 +33253,7 @@ data = {
               "lat": "15.687",
               "lng": "104.697"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370704": {
             "name": {
@@ -33264,7 +33264,7 @@ data = {
               "lat": "15.716",
               "lng": "104.765"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370705": {
             "name": {
@@ -33275,7 +33275,7 @@ data = {
               "lat": "15.663",
               "lng": "104.780"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "370706": {
             "name": {
@@ -33318,134 +33318,134 @@ data = {
           "380101": {
             "name": {
               "th": "บึงกาฬ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.331",
               "lng": "103.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380102": {
             "name": {
               "th": "โนนสมบูรณ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.284",
               "lng": "103.638"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380103": {
             "name": {
               "th": "หนองเข็ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.356",
               "lng": "103.468"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380104": {
             "name": {
               "th": "หอคำ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.406",
               "lng": "103.380"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380105": {
             "name": {
               "th": "หนองเลิง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.328",
               "lng": "103.393"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380106": {
             "name": {
               "th": "โคกก่อง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.298",
               "lng": "103.772"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380107": {
             "name": {
               "th": "นาสวรรค์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.265",
               "lng": "103.581"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380108": {
             "name": {
               "th": "ไคสี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.403",
               "lng": "103.508"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380109": {
             "name": {
               "th": "ชัยพร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.240",
               "lng": "103.839"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380110": {
             "name": {
               "th": "วิศิษฐ์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.359",
               "lng": "103.592"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380111": {
             "name": {
               "th": "คำนาดี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.219",
               "lng": "103.593"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380112": {
             "name": {
               "th": "โป่งเปือย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.332",
               "lng": "103.531"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33458,79 +33458,79 @@ data = {
           "380201": {
             "name": {
               "th": "ศรีชมภู",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.044",
               "lng": "103.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380202": {
             "name": {
               "th": "ดอนหญ้านาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.046",
               "lng": "103.616"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380203": {
             "name": {
               "th": "พรเจริญ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.031",
               "lng": "103.711"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380204": {
             "name": {
               "th": "หนองหัวช้าง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.125",
               "lng": "103.583"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380205": {
             "name": {
               "th": "วังชมภู",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.983",
               "lng": "103.683"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380206": {
             "name": {
               "th": "ป่าแฝก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.094",
               "lng": "103.698"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380207": {
             "name": {
               "th": "ศรีสำราญ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.121",
               "lng": "103.646"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33543,79 +33543,79 @@ data = {
           "380301": {
             "name": {
               "th": "โซ่",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.039",
               "lng": "103.391"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380302": {
             "name": {
               "th": "หนองพันทา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.129",
               "lng": "103.384"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380303": {
             "name": {
               "th": "ศรีชมภู",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.271",
               "lng": "103.464"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380304": {
             "name": {
               "th": "คำแก้ว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.093",
               "lng": "103.489"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380305": {
             "name": {
               "th": "บัวตูม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.072",
               "lng": "103.364"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380306": {
             "name": {
               "th": "ถ้ำเจริญ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.208",
               "lng": "103.497"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380307": {
             "name": {
               "th": "เหล่าทอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.144",
               "lng": "103.442"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33628,101 +33628,101 @@ data = {
           "380401": {
             "name": {
               "th": "เซกา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.964",
               "lng": "103.945"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380402": {
             "name": {
               "th": "ซาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.839",
               "lng": "103.958"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380403": {
             "name": {
               "th": "ท่ากกแดง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.911",
               "lng": "103.816"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380404": {
             "name": {
               "th": "บ้านต้อง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.099",
               "lng": "103.946"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380405": {
             "name": {
               "th": "ป่งไฮ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.976",
               "lng": "103.873"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380406": {
             "name": {
               "th": "น้ำจั้น",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.063",
               "lng": "103.894"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380407": {
             "name": {
               "th": "ท่าสะอาด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.975",
               "lng": "103.744"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380408": {
             "name": {
               "th": "หนองทุ่ม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.914",
               "lng": "103.891"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380409": {
             "name": {
               "th": "โสกก่าม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.075",
               "lng": "104.015"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33735,68 +33735,68 @@ data = {
           "380501": {
             "name": {
               "th": "ปากคาด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.343",
               "lng": "103.316"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380502": {
             "name": {
               "th": "หนองยอง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.208",
               "lng": "103.351"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380503": {
             "name": {
               "th": "นากั้ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.382",
               "lng": "103.285"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380504": {
             "name": {
               "th": "โนนศิลา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.292",
               "lng": "103.346"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380505": {
             "name": {
               "th": "สมสนุก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.222",
               "lng": "103.398"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380506": {
             "name": {
               "th": "นาดง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.256",
               "lng": "103.304"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33809,46 +33809,46 @@ data = {
           "380601": {
             "name": {
               "th": "บึงโขงหลง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.002",
               "lng": "104.045"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380602": {
             "name": {
               "th": "โพธิ์หมากแข้ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.941",
               "lng": "104.075"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380603": {
             "name": {
               "th": "ดงบัง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.033",
               "lng": "104.133"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380604": {
             "name": {
               "th": "ท่าดอกคำ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.123",
               "lng": "104.058"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33861,57 +33861,57 @@ data = {
           "380701": {
             "name": {
               "th": "ศรีวิไล",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.225",
               "lng": "103.732"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380702": {
             "name": {
               "th": "ชุมภูพร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.146",
               "lng": "103.714"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380703": {
             "name": {
               "th": "นาแสง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.082",
               "lng": "103.843"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380704": {
             "name": {
               "th": "นาสะแบง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.140",
               "lng": "103.814"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380705": {
             "name": {
               "th": "นาสิงห์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.212",
               "lng": "103.789"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -33924,35 +33924,35 @@ data = {
           "380801": {
             "name": {
               "th": "บุ่งคล้า",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.252",
               "lng": "103.962"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380802": {
             "name": {
               "th": "หนองเดิ่น",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.294",
               "lng": "103.925"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "380803": {
             "name": {
               "th": "โคกกว้าง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.218",
               "lng": "104.010"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -34314,7 +34314,7 @@ data = {
               "lat": "16.840",
               "lng": "102.437"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390307": {
             "name": {
@@ -34517,7 +34517,7 @@ data = {
               "lat": "17.631",
               "lng": "102.313"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390502": {
             "name": {
@@ -34528,7 +34528,7 @@ data = {
               "lat": "17.528",
               "lng": "102.199"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390503": {
             "name": {
@@ -34539,7 +34539,7 @@ data = {
               "lat": "17.473",
               "lng": "102.269"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390504": {
             "name": {
@@ -34613,7 +34613,7 @@ data = {
               "lat": "17.294",
               "lng": "102.073"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390602": {
             "name": {
@@ -34624,7 +34624,7 @@ data = {
               "lat": "17.396",
               "lng": "102.078"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390603": {
             "name": {
@@ -34635,7 +34635,7 @@ data = {
               "lat": "17.320",
               "lng": "102.030"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390604": {
             "name": {
@@ -34646,7 +34646,7 @@ data = {
               "lat": "17.426",
               "lng": "102.024"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "390605": {
             "name": {
@@ -34657,7 +34657,7 @@ data = {
               "lat": "17.308",
               "lng": "102.117"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -34890,7 +34890,7 @@ data = {
               "lat": "16.497",
               "lng": "102.596"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "400202": {
             "name": {
@@ -34997,7 +34997,7 @@ data = {
               "lat": "16.274",
               "lng": "102.751"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "400304": {
             "name": {
@@ -35277,7 +35277,7 @@ data = {
               "lat": "16.576",
               "lng": "101.999"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -35672,7 +35672,7 @@ data = {
               "lat": "16.769",
               "lng": "103.050"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "400909": {
             "name": {
@@ -35746,7 +35746,7 @@ data = {
               "lat": "16.106",
               "lng": "102.767"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401005": {
             "name": {
@@ -35853,7 +35853,7 @@ data = {
               "lat": "15.879",
               "lng": "102.904"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401102": {
             "name": {
@@ -35864,7 +35864,7 @@ data = {
               "lat": "15.884",
               "lng": "102.829"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401103": {
             "name": {
@@ -35875,7 +35875,7 @@ data = {
               "lat": "15.938",
               "lng": "102.874"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401104": {
             "name": {
@@ -35886,7 +35886,7 @@ data = {
               "lat": "15.850",
               "lng": "102.895"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36045,7 +36045,7 @@ data = {
               "lat": "15.947",
               "lng": "102.486"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401302": {
             "name": {
@@ -36056,7 +36056,7 @@ data = {
               "lat": "15.906",
               "lng": "102.471"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401303": {
             "name": {
@@ -36067,7 +36067,7 @@ data = {
               "lat": "15.904",
               "lng": "102.401"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401304": {
             "name": {
@@ -36078,7 +36078,7 @@ data = {
               "lat": "15.954",
               "lng": "102.533"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401305": {
             "name": {
@@ -36089,7 +36089,7 @@ data = {
               "lat": "15.954",
               "lng": "102.421"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36108,7 +36108,7 @@ data = {
               "lat": "15.813",
               "lng": "102.423"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401402": {
             "name": {
@@ -36119,7 +36119,7 @@ data = {
               "lat": "15.844",
               "lng": "102.464"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401403": {
             "name": {
@@ -36152,7 +36152,7 @@ data = {
               "lat": "15.735",
               "lng": "102.397"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401406": {
             "name": {
@@ -36163,7 +36163,7 @@ data = {
               "lat": "15.758",
               "lng": "102.429"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36676,7 +36676,7 @@ data = {
               "lat": "17.025",
               "lng": "102.709"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "401905": {
             "name": {
@@ -36769,7 +36769,7 @@ data = {
               "lat": "16.534",
               "lng": "103.069"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402102": {
             "name": {
@@ -36780,7 +36780,7 @@ data = {
               "lat": "16.616",
               "lng": "103.122"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402103": {
             "name": {
@@ -36791,7 +36791,7 @@ data = {
               "lat": "16.560",
               "lng": "103.027"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402104": {
             "name": {
@@ -36802,7 +36802,7 @@ data = {
               "lat": "16.508",
               "lng": "103.014"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402105": {
             "name": {
@@ -36813,7 +36813,7 @@ data = {
               "lat": "16.582",
               "lng": "103.089"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36832,7 +36832,7 @@ data = {
               "lat": "16.112",
               "lng": "102.378"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402202": {
             "name": {
@@ -36843,7 +36843,7 @@ data = {
               "lat": "16.027",
               "lng": "102.399"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402203": {
             "name": {
@@ -36854,7 +36854,7 @@ data = {
               "lat": "16.074",
               "lng": "102.329"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402204": {
             "name": {
@@ -36865,7 +36865,7 @@ data = {
               "lat": "16.078",
               "lng": "102.472"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36884,7 +36884,7 @@ data = {
               "lat": "16.834",
               "lng": "102.308"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402302": {
             "name": {
@@ -36895,7 +36895,7 @@ data = {
               "lat": "16.791",
               "lng": "102.335"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402303": {
             "name": {
@@ -36906,7 +36906,7 @@ data = {
               "lat": "16.774",
               "lng": "102.387"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36925,7 +36925,7 @@ data = {
               "lat": "16.211",
               "lng": "102.778"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402402": {
             "name": {
@@ -36936,7 +36936,7 @@ data = {
               "lat": "16.190",
               "lng": "102.710"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402403": {
             "name": {
@@ -36947,7 +36947,7 @@ data = {
               "lat": "16.259",
               "lng": "102.788"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402404": {
             "name": {
@@ -36958,7 +36958,7 @@ data = {
               "lat": "16.175",
               "lng": "102.809"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -36977,7 +36977,7 @@ data = {
               "lat": "15.940",
               "lng": "102.664"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402502": {
             "name": {
@@ -36988,7 +36988,7 @@ data = {
               "lat": "15.989",
               "lng": "102.635"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402503": {
             "name": {
@@ -36999,7 +36999,7 @@ data = {
               "lat": "15.940",
               "lng": "102.720"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402504": {
             "name": {
@@ -37010,7 +37010,7 @@ data = {
               "lat": "16.027",
               "lng": "102.651"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402505": {
             "name": {
@@ -37021,7 +37021,7 @@ data = {
               "lat": "16.005",
               "lng": "102.687"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -37034,35 +37034,35 @@ data = {
           "402602": {
             "name": {
               "th": "ในเมือง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.742",
               "lng": "102.259"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402608": {
             "name": {
               "th": "เขาน้อย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.723",
               "lng": "102.330"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "402615": {
             "name": {
               "th": "เมืองเก่าพัฒนา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.625",
               "lng": "102.206"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -37193,7 +37193,7 @@ data = {
           "410111": {
             "name": {
               "th": "นาข่า",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.540",
@@ -37317,7 +37317,7 @@ data = {
               "lat": "17.382",
               "lng": "102.515"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410202": {
             "name": {
@@ -37328,7 +37328,7 @@ data = {
               "lat": "17.480",
               "lng": "102.596"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410203": {
             "name": {
@@ -37339,7 +37339,7 @@ data = {
               "lat": "17.385",
               "lng": "102.460"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410204": {
             "name": {
@@ -37350,7 +37350,7 @@ data = {
               "lat": "17.490",
               "lng": "102.652"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410205": {
             "name": {
@@ -37586,7 +37586,7 @@ data = {
               "lat": "17.056",
               "lng": "102.896"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410413": {
             "name": {
@@ -37630,7 +37630,7 @@ data = {
               "lat": "17.033",
               "lng": "102.981"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -37649,7 +37649,7 @@ data = {
               "lat": "16.977",
               "lng": "102.902"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410502": {
             "name": {
@@ -37660,7 +37660,7 @@ data = {
               "lat": "16.969",
               "lng": "102.981"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410503": {
             "name": {
@@ -37671,7 +37671,7 @@ data = {
               "lat": "16.983",
               "lng": "102.839"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410504": {
             "name": {
@@ -37822,7 +37822,7 @@ data = {
               "lat": "17.327",
               "lng": "103.111"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410617": {
             "name": {
@@ -37863,7 +37863,7 @@ data = {
               "lat": "17.478",
               "lng": "103.263"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410702": {
             "name": {
@@ -37874,7 +37874,7 @@ data = {
               "lat": "17.475",
               "lng": "103.174"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410703": {
             "name": {
@@ -37915,7 +37915,7 @@ data = {
               "lat": "17.303",
               "lng": "103.205"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410802": {
             "name": {
@@ -37926,7 +37926,7 @@ data = {
               "lat": "17.237",
               "lng": "103.204"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "410803": {
             "name": {
@@ -37948,7 +37948,7 @@ data = {
               "lat": "17.173",
               "lng": "103.240"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -38085,7 +38085,7 @@ data = {
               "lat": "17.134",
               "lng": "103.537"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411005": {
             "name": {
@@ -38159,7 +38159,7 @@ data = {
               "lat": "17.672",
               "lng": "103.296"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411105": {
             "name": {
@@ -38181,7 +38181,7 @@ data = {
               "lat": "17.796",
               "lng": "103.296"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411107": {
             "name": {
@@ -38247,7 +38247,7 @@ data = {
               "lat": "17.573",
               "lng": "103.248"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411113": {
             "name": {
@@ -38398,7 +38398,7 @@ data = {
               "lat": "17.750",
               "lng": "102.446"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411713": {
             "name": {
@@ -38450,7 +38450,7 @@ data = {
               "lat": "17.810",
               "lng": "102.300"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411806": {
             "name": {
@@ -38612,7 +38612,7 @@ data = {
               "lat": "17.729",
               "lng": "102.979"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "411911": {
             "name": {
@@ -38642,7 +38642,7 @@ data = {
               "lat": "17.814",
               "lng": "103.090"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412002": {
             "name": {
@@ -38653,7 +38653,7 @@ data = {
               "lat": "17.859",
               "lng": "103.027"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412003": {
             "name": {
@@ -38664,7 +38664,7 @@ data = {
               "lat": "17.734",
               "lng": "103.040"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412004": {
             "name": {
@@ -38675,7 +38675,7 @@ data = {
               "lat": "17.786",
               "lng": "103.016"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412005": {
             "name": {
@@ -38716,7 +38716,7 @@ data = {
               "lat": "17.172",
               "lng": "102.842"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412102": {
             "name": {
@@ -38727,7 +38727,7 @@ data = {
               "lat": "17.121",
               "lng": "102.804"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412103": {
             "name": {
@@ -38738,7 +38738,7 @@ data = {
               "lat": "17.081",
               "lng": "102.844"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412104": {
             "name": {
@@ -38768,7 +38768,7 @@ data = {
               "lat": "17.916",
               "lng": "102.213"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412202": {
             "name": {
@@ -38779,7 +38779,7 @@ data = {
               "lat": "17.821",
               "lng": "102.079"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412203": {
             "name": {
@@ -38790,7 +38790,7 @@ data = {
               "lat": "17.963",
               "lng": "102.085"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412204": {
             "name": {
@@ -38801,7 +38801,7 @@ data = {
               "lat": "17.989",
               "lng": "102.198"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -38820,7 +38820,7 @@ data = {
               "lat": "17.539",
               "lng": "103.072"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412302": {
             "name": {
@@ -38831,7 +38831,7 @@ data = {
               "lat": "17.563",
               "lng": "103.123"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412303": {
             "name": {
@@ -38842,7 +38842,7 @@ data = {
               "lat": "17.480",
               "lng": "103.023"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -38861,7 +38861,7 @@ data = {
               "lat": "17.135",
               "lng": "103.197"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412402": {
             "name": {
@@ -38872,7 +38872,7 @@ data = {
               "lat": "17.197",
               "lng": "103.177"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412403": {
             "name": {
@@ -38883,7 +38883,7 @@ data = {
               "lat": "17.205",
               "lng": "103.141"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412404": {
             "name": {
@@ -38894,7 +38894,7 @@ data = {
               "lat": "17.158",
               "lng": "103.134"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -38913,7 +38913,7 @@ data = {
               "lat": "17.256",
               "lng": "102.976"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412502": {
             "name": {
@@ -38924,7 +38924,7 @@ data = {
               "lat": "17.237",
               "lng": "102.934"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "412503": {
             "name": {
@@ -38935,7 +38935,7 @@ data = {
               "lat": "17.234",
               "lng": "103.062"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -39464,7 +39464,7 @@ data = {
               "lat": "17.484",
               "lng": "101.066"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420602": {
             "name": {
@@ -39475,7 +39475,7 @@ data = {
               "lat": "17.507",
               "lng": "100.965"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420603": {
             "name": {
@@ -39527,7 +39527,7 @@ data = {
               "lat": "17.454",
               "lng": "101.371"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420702": {
             "name": {
@@ -39538,7 +39538,7 @@ data = {
               "lat": "17.391",
               "lng": "101.463"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420703": {
             "name": {
@@ -39549,7 +39549,7 @@ data = {
               "lat": "17.346",
               "lng": "101.333"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420704": {
             "name": {
@@ -39560,7 +39560,7 @@ data = {
               "lat": "17.318",
               "lng": "101.439"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "420705": {
             "name": {
@@ -39845,7 +39845,7 @@ data = {
               "lat": "17.135",
               "lng": "101.629"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421102": {
             "name": {
@@ -39856,7 +39856,7 @@ data = {
               "lat": "17.141",
               "lng": "101.701"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421104": {
             "name": {
@@ -39908,7 +39908,7 @@ data = {
               "lat": "17.019",
               "lng": "101.960"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421202": {
             "name": {
@@ -39919,7 +39919,7 @@ data = {
               "lat": "17.019",
               "lng": "102.090"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421203": {
             "name": {
@@ -39930,7 +39930,7 @@ data = {
               "lat": "16.983",
               "lng": "101.985"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421204": {
             "name": {
@@ -39941,7 +39941,7 @@ data = {
               "lat": "17.102",
               "lng": "102.052"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421205": {
             "name": {
@@ -39971,7 +39971,7 @@ data = {
               "lat": "17.373",
               "lng": "101.892"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421302": {
             "name": {
@@ -39982,7 +39982,7 @@ data = {
               "lat": "17.303",
               "lng": "101.962"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421303": {
             "name": {
@@ -39993,7 +39993,7 @@ data = {
               "lat": "17.228",
               "lng": "102.066"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421304": {
             "name": {
@@ -40004,7 +40004,7 @@ data = {
               "lat": "17.193",
               "lng": "101.994"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -40023,7 +40023,7 @@ data = {
               "lat": "17.112",
               "lng": "101.860"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421402": {
             "name": {
@@ -40034,7 +40034,7 @@ data = {
               "lat": "17.033",
               "lng": "101.879"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "421403": {
             "name": {
@@ -40045,7 +40045,7 @@ data = {
               "lat": "17.031",
               "lng": "101.741"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -40300,7 +40300,7 @@ data = {
               "lat": "17.775",
               "lng": "102.579"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "430206": {
             "name": {
@@ -40618,7 +40618,7 @@ data = {
               "lat": "17.703",
               "lng": "102.750"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431402": {
             "name": {
@@ -40629,7 +40629,7 @@ data = {
               "lat": "17.638",
               "lng": "102.736"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431403": {
             "name": {
@@ -40640,7 +40640,7 @@ data = {
               "lat": "17.651",
               "lng": "102.665"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -40659,7 +40659,7 @@ data = {
               "lat": "17.969",
               "lng": "103.270"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431502": {
             "name": {
@@ -40670,7 +40670,7 @@ data = {
               "lat": "17.999",
               "lng": "103.366"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431503": {
             "name": {
@@ -40681,7 +40681,7 @@ data = {
               "lat": "18.021",
               "lng": "103.240"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431504": {
             "name": {
@@ -40692,7 +40692,7 @@ data = {
               "lat": "18.086",
               "lng": "103.256"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431505": {
             "name": {
@@ -40703,7 +40703,7 @@ data = {
               "lat": "17.891",
               "lng": "103.357"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -40722,7 +40722,7 @@ data = {
               "lat": "18.223",
               "lng": "103.183"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431602": {
             "name": {
@@ -40733,7 +40733,7 @@ data = {
               "lat": "18.177",
               "lng": "103.306"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431603": {
             "name": {
@@ -40744,7 +40744,7 @@ data = {
               "lat": "18.258",
               "lng": "103.236"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431604": {
             "name": {
@@ -40755,7 +40755,7 @@ data = {
               "lat": "18.163",
               "lng": "103.209"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431605": {
             "name": {
@@ -40766,7 +40766,7 @@ data = {
               "lat": "18.252",
               "lng": "103.202"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -40785,7 +40785,7 @@ data = {
               "lat": "17.846",
               "lng": "102.422"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431702": {
             "name": {
@@ -40796,7 +40796,7 @@ data = {
               "lat": "17.881",
               "lng": "102.454"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "431703": {
             "name": {
@@ -40807,7 +40807,7 @@ data = {
               "lat": "17.925",
               "lng": "102.398"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -40916,7 +40916,7 @@ data = {
           "440109": {
             "name": {
               "th": "ท่าสองคอน",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.163",
@@ -41550,7 +41550,7 @@ data = {
           "440611": {
             "name": {
               "th": "บัวมาศ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.897",
@@ -41674,7 +41674,7 @@ data = {
               "lat": "15.841",
               "lng": "103.065"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "440705": {
             "name": {
@@ -41729,7 +41729,7 @@ data = {
               "lat": "15.722",
               "lng": "103.038"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "440710": {
             "name": {
@@ -41896,13 +41896,13 @@ data = {
           "440828": {
             "name": {
               "th": "หนองบัว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.591",
               "lng": "103.106"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -42094,7 +42094,7 @@ data = {
               "lat": "15.738",
               "lng": "103.205"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441002": {
             "name": {
@@ -42105,7 +42105,7 @@ data = {
               "lat": "15.726",
               "lng": "103.318"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441003": {
             "name": {
@@ -42116,7 +42116,7 @@ data = {
               "lat": "15.782",
               "lng": "103.226"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441004": {
             "name": {
@@ -42201,7 +42201,7 @@ data = {
               "lat": "15.677",
               "lng": "103.093"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441102": {
             "name": {
@@ -42212,7 +42212,7 @@ data = {
               "lat": "15.682",
               "lng": "103.032"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441103": {
             "name": {
@@ -42223,7 +42223,7 @@ data = {
               "lat": "15.638",
               "lng": "103.035"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441104": {
             "name": {
@@ -42234,7 +42234,7 @@ data = {
               "lat": "15.686",
               "lng": "103.136"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441105": {
             "name": {
@@ -42245,7 +42245,7 @@ data = {
               "lat": "15.649",
               "lng": "103.146"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441106": {
             "name": {
@@ -42256,7 +42256,7 @@ data = {
               "lat": "15.627",
               "lng": "103.113"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441107": {
             "name": {
@@ -42286,7 +42286,7 @@ data = {
               "lat": "16.072",
               "lng": "103.000"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441202": {
             "name": {
@@ -42297,7 +42297,7 @@ data = {
               "lat": "16.077",
               "lng": "102.907"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441203": {
             "name": {
@@ -42308,7 +42308,7 @@ data = {
               "lat": "15.968",
               "lng": "102.960"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441204": {
             "name": {
@@ -42319,7 +42319,7 @@ data = {
               "lat": "16.006",
               "lng": "102.935"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441205": {
             "name": {
@@ -42330,7 +42330,7 @@ data = {
               "lat": "16.123",
               "lng": "103.049"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -42349,7 +42349,7 @@ data = {
               "lat": "16.551",
               "lng": "103.144"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441302": {
             "name": {
@@ -42360,7 +42360,7 @@ data = {
               "lat": "16.588",
               "lng": "103.138"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441303": {
             "name": {
@@ -42371,7 +42371,7 @@ data = {
               "lat": "16.492",
               "lng": "103.145"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "441304": {
             "name": {
@@ -42382,7 +42382,7 @@ data = {
               "lat": "16.475",
               "lng": "103.124"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -42486,7 +42486,7 @@ data = {
               "lat": "16.081",
               "lng": "103.523"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450110": {
             "name": {
@@ -42648,7 +42648,7 @@ data = {
               "lat": "15.741",
               "lng": "103.631"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450208": {
             "name": {
@@ -43304,7 +43304,7 @@ data = {
               "lat": "16.401",
               "lng": "103.998"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450706": {
             "name": {
@@ -43315,7 +43315,7 @@ data = {
               "lat": "16.322",
               "lng": "103.920"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450707": {
             "name": {
@@ -43353,7 +43353,7 @@ data = {
           "450710": {
             "name": {
               "th": "คำนาดี",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.396",
@@ -43433,7 +43433,7 @@ data = {
               "lat": "16.242",
               "lng": "103.804"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450803": {
             "name": {
@@ -43455,7 +43455,7 @@ data = {
               "lat": "16.385",
               "lng": "103.746"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450805": {
             "name": {
@@ -43529,7 +43529,7 @@ data = {
               "lat": "16.318",
               "lng": "104.159"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450902": {
             "name": {
@@ -43540,7 +43540,7 @@ data = {
               "lat": "16.388",
               "lng": "104.300"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450903": {
             "name": {
@@ -43573,7 +43573,7 @@ data = {
               "lat": "16.268",
               "lng": "104.275"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450906": {
             "name": {
@@ -43595,7 +43595,7 @@ data = {
               "lat": "16.283",
               "lng": "104.207"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "450908": {
             "name": {
@@ -43724,7 +43724,7 @@ data = {
               "lat": "16.136",
               "lng": "104.138"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451010": {
             "name": {
@@ -43930,7 +43930,7 @@ data = {
               "lat": "15.645",
               "lng": "103.915"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451110": {
             "name": {
@@ -44015,7 +44015,7 @@ data = {
               "lat": "15.817",
               "lng": "103.714"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451202": {
             "name": {
@@ -44229,7 +44229,7 @@ data = {
               "lat": "15.903",
               "lng": "103.791"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -44248,7 +44248,7 @@ data = {
               "lat": "16.395",
               "lng": "104.167"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451502": {
             "name": {
@@ -44259,7 +44259,7 @@ data = {
               "lat": "16.342",
               "lng": "104.067"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451503": {
             "name": {
@@ -44300,7 +44300,7 @@ data = {
               "lat": "15.973",
               "lng": "103.535"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451602": {
             "name": {
@@ -44311,7 +44311,7 @@ data = {
               "lat": "15.980",
               "lng": "103.474"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451603": {
             "name": {
@@ -44322,7 +44322,7 @@ data = {
               "lat": "16.011",
               "lng": "103.551"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451604": {
             "name": {
@@ -44333,7 +44333,7 @@ data = {
               "lat": "16.044",
               "lng": "103.541"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451605": {
             "name": {
@@ -44344,7 +44344,7 @@ data = {
               "lat": "16.034",
               "lng": "103.492"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451606": {
             "name": {
@@ -44396,7 +44396,7 @@ data = {
               "lat": "16.183",
               "lng": "103.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451702": {
             "name": {
@@ -44407,7 +44407,7 @@ data = {
               "lat": "16.140",
               "lng": "103.637"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451703": {
             "name": {
@@ -44418,7 +44418,7 @@ data = {
               "lat": "16.204",
               "lng": "103.543"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451704": {
             "name": {
@@ -44429,7 +44429,7 @@ data = {
               "lat": "16.140",
               "lng": "103.594"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451705": {
             "name": {
@@ -44440,7 +44440,7 @@ data = {
               "lat": "16.175",
               "lng": "103.580"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451706": {
             "name": {
@@ -44486,13 +44486,13 @@ data = {
           "451801": {
             "name": {
               "th": "เชียงขวัญ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.191",
               "lng": "103.724"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451802": {
             "name": {
@@ -44503,7 +44503,7 @@ data = {
               "lat": "16.135",
               "lng": "103.782"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451803": {
             "name": {
@@ -44514,7 +44514,7 @@ data = {
               "lat": "16.160",
               "lng": "103.769"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451804": {
             "name": {
@@ -44525,29 +44525,29 @@ data = {
               "lat": "16.128",
               "lng": "103.741"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451805": {
             "name": {
               "th": "หมูม้น",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.101",
               "lng": "103.705"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451806": {
             "name": {
               "th": "บ้านเขือง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.150",
               "lng": "103.710"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -44566,7 +44566,7 @@ data = {
               "lat": "15.621",
               "lng": "104.000"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451902": {
             "name": {
@@ -44577,7 +44577,7 @@ data = {
               "lat": "15.550",
               "lng": "104.062"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451903": {
             "name": {
@@ -44588,7 +44588,7 @@ data = {
               "lat": "15.559",
               "lng": "104.016"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "451904": {
             "name": {
@@ -44599,7 +44599,7 @@ data = {
               "lat": "15.582",
               "lng": "103.965"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -44612,13 +44612,13 @@ data = {
           "452001": {
             "name": {
               "th": "ทุ่งเขาหลวง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.032",
               "lng": "103.853"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "452002": {
             "name": {
@@ -44629,7 +44629,7 @@ data = {
               "lat": "15.963",
               "lng": "103.866"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "452003": {
             "name": {
@@ -44640,18 +44640,18 @@ data = {
               "lat": "15.986",
               "lng": "103.894"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "452004": {
             "name": {
               "th": "มะบ้า",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.039",
               "lng": "103.889"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "452005": {
             "name": {
@@ -44662,7 +44662,7 @@ data = {
               "lat": "15.965",
               "lng": "103.827"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -44884,7 +44884,7 @@ data = {
               "lat": "16.561",
               "lng": "103.776"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "460202": {
             "name": {
@@ -44895,7 +44895,7 @@ data = {
               "lat": "16.622",
               "lng": "103.735"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "460203": {
             "name": {
@@ -45235,7 +45235,7 @@ data = {
               "lat": "16.626",
               "lng": "104.119"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "460603": {
             "name": {
@@ -45600,7 +45600,7 @@ data = {
               "lat": "16.800",
               "lng": "103.605"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "460905": {
             "name": {
@@ -45663,7 +45663,7 @@ data = {
               "lat": "16.938",
               "lng": "103.679"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461002": {
             "name": {
@@ -45674,7 +45674,7 @@ data = {
               "lat": "16.841",
               "lng": "103.637"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461005": {
             "name": {
@@ -45822,7 +45822,7 @@ data = {
               "lat": "16.728",
               "lng": "103.376"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461203": {
             "name": {
@@ -45833,7 +45833,7 @@ data = {
               "lat": "16.781",
               "lng": "103.238"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461204": {
             "name": {
@@ -46066,7 +46066,7 @@ data = {
               "lat": "16.954",
               "lng": "103.522"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461502": {
             "name": {
@@ -46077,7 +46077,7 @@ data = {
               "lat": "16.814",
               "lng": "103.480"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461503": {
             "name": {
@@ -46088,7 +46088,7 @@ data = {
               "lat": "16.814",
               "lng": "103.546"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461504": {
             "name": {
@@ -46099,7 +46099,7 @@ data = {
               "lat": "16.913",
               "lng": "103.571"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -46118,7 +46118,7 @@ data = {
               "lat": "16.808",
               "lng": "104.070"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461602": {
             "name": {
@@ -46129,7 +46129,7 @@ data = {
               "lat": "16.761",
               "lng": "104.063"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461603": {
             "name": {
@@ -46140,7 +46140,7 @@ data = {
               "lat": "16.733",
               "lng": "103.989"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461604": {
             "name": {
@@ -46151,7 +46151,7 @@ data = {
               "lat": "16.791",
               "lng": "103.994"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461605": {
             "name": {
@@ -46162,7 +46162,7 @@ data = {
               "lat": "16.688",
               "lng": "103.970"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -46181,7 +46181,7 @@ data = {
               "lat": "16.425",
               "lng": "103.696"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461702": {
             "name": {
@@ -46192,7 +46192,7 @@ data = {
               "lat": "16.471",
               "lng": "103.773"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461703": {
             "name": {
@@ -46203,7 +46203,7 @@ data = {
               "lat": "16.531",
               "lng": "103.708"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461704": {
             "name": {
@@ -46214,7 +46214,7 @@ data = {
               "lat": "16.475",
               "lng": "103.639"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461705": {
             "name": {
@@ -46225,7 +46225,7 @@ data = {
               "lat": "16.480",
               "lng": "103.696"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -46244,7 +46244,7 @@ data = {
               "lat": "16.257",
               "lng": "103.463"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461802": {
             "name": {
@@ -46266,7 +46266,7 @@ data = {
               "lat": "16.285",
               "lng": "103.435"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "461804": {
             "name": {
@@ -46288,7 +46288,7 @@ data = {
               "lat": "16.215",
               "lng": "103.468"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -46532,7 +46532,7 @@ data = {
               "lat": "17.379",
               "lng": "104.378"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "470205": {
             "name": {
@@ -46806,7 +46806,7 @@ data = {
               "lat": "17.319",
               "lng": "103.543"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "470604": {
             "name": {
@@ -47552,7 +47552,7 @@ data = {
               "lat": "16.944",
               "lng": "104.242"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471402": {
             "name": {
@@ -47604,7 +47604,7 @@ data = {
               "lat": "17.010",
               "lng": "104.257"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471502": {
             "name": {
@@ -47615,7 +47615,7 @@ data = {
               "lat": "17.000",
               "lng": "104.331"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471503": {
             "name": {
@@ -47656,7 +47656,7 @@ data = {
               "lat": "17.699",
               "lng": "103.524"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471602": {
             "name": {
@@ -47667,7 +47667,7 @@ data = {
               "lat": "17.568",
               "lng": "103.561"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471603": {
             "name": {
@@ -47678,7 +47678,7 @@ data = {
               "lat": "17.602",
               "lng": "103.528"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471604": {
             "name": {
@@ -47689,7 +47689,7 @@ data = {
               "lat": "17.536",
               "lng": "103.605"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471605": {
             "name": {
@@ -47700,7 +47700,7 @@ data = {
               "lat": "17.706",
               "lng": "103.443"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -47719,7 +47719,7 @@ data = {
               "lat": "17.219",
               "lng": "104.375"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471702": {
             "name": {
@@ -47730,7 +47730,7 @@ data = {
               "lat": "17.268",
               "lng": "104.239"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471703": {
             "name": {
@@ -47741,7 +47741,7 @@ data = {
               "lat": "17.242",
               "lng": "104.341"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471704": {
             "name": {
@@ -47752,7 +47752,7 @@ data = {
               "lat": "17.196",
               "lng": "104.234"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471705": {
             "name": {
@@ -47782,7 +47782,7 @@ data = {
               "lat": "16.883",
               "lng": "103.918"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471802": {
             "name": {
@@ -47793,7 +47793,7 @@ data = {
               "lat": "16.881",
               "lng": "104.022"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471803": {
             "name": {
@@ -47804,7 +47804,7 @@ data = {
               "lat": "16.972",
               "lng": "103.859"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "471804": {
             "name": {
@@ -47815,7 +47815,7 @@ data = {
               "lat": "16.969",
               "lng": "104.042"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -48421,7 +48421,7 @@ data = {
               "lat": "17.068",
               "lng": "104.697"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "480603": {
             "name": {
@@ -48764,7 +48764,7 @@ data = {
               "lat": "17.424",
               "lng": "104.071"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "480903": {
             "name": {
@@ -48827,7 +48827,7 @@ data = {
               "lat": "17.444",
               "lng": "104.504"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481002": {
             "name": {
@@ -48838,7 +48838,7 @@ data = {
               "lat": "17.482",
               "lng": "104.368"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481003": {
             "name": {
@@ -48849,7 +48849,7 @@ data = {
               "lat": "17.523",
               "lng": "104.513"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481005": {
             "name": {
@@ -48860,7 +48860,7 @@ data = {
               "lat": "17.473",
               "lng": "104.264"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481006": {
             "name": {
@@ -48890,7 +48890,7 @@ data = {
               "lat": "17.845",
               "lng": "104.037"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481102": {
             "name": {
@@ -48901,7 +48901,7 @@ data = {
               "lat": "17.866",
               "lng": "104.147"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481103": {
             "name": {
@@ -48912,7 +48912,7 @@ data = {
               "lat": "17.798",
               "lng": "104.108"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -48931,7 +48931,7 @@ data = {
               "lat": "17.063",
               "lng": "104.442"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481202": {
             "name": {
@@ -48942,7 +48942,7 @@ data = {
               "lat": "17.065",
               "lng": "104.482"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481203": {
             "name": {
@@ -48953,7 +48953,7 @@ data = {
               "lat": "17.081",
               "lng": "104.387"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "481204": {
             "name": {
@@ -48964,7 +48964,7 @@ data = {
               "lat": "17.091",
               "lng": "104.491"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -49153,7 +49153,7 @@ data = {
               "lat": "16.346",
               "lng": "104.614"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490203": {
             "name": {
@@ -49164,7 +49164,7 @@ data = {
               "lat": "16.412",
               "lng": "104.605"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490204": {
             "name": {
@@ -49175,7 +49175,7 @@ data = {
               "lat": "16.410",
               "lng": "104.505"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490205": {
             "name": {
@@ -49380,7 +49380,7 @@ data = {
           "490501": {
             "name": {
               "th": "บ้านช่ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.569",
@@ -49493,7 +49493,7 @@ data = {
               "lat": "16.716",
               "lng": "104.728"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490602": {
             "name": {
@@ -49515,7 +49515,7 @@ data = {
               "lat": "16.667",
               "lng": "104.707"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490604": {
             "name": {
@@ -49556,7 +49556,7 @@ data = {
               "lat": "16.459",
               "lng": "104.361"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490702": {
             "name": {
@@ -49567,7 +49567,7 @@ data = {
               "lat": "16.490",
               "lng": "104.278"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490703": {
             "name": {
@@ -49578,7 +49578,7 @@ data = {
               "lat": "16.455",
               "lng": "104.447"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490704": {
             "name": {
@@ -49589,7 +49589,7 @@ data = {
               "lat": "16.410",
               "lng": "104.337"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490705": {
             "name": {
@@ -49600,7 +49600,7 @@ data = {
               "lat": "16.388",
               "lng": "104.382"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "490706": {
             "name": {
@@ -49709,7 +49709,7 @@ data = {
           "500109": {
             "name": {
               "th": "สุเทพ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.768",
@@ -50401,7 +50401,7 @@ data = {
               "lat": "19.011",
               "lng": "98.942"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "500705": {
             "name": {
@@ -50634,7 +50634,7 @@ data = {
               "lat": "20.065",
               "lng": "99.262"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501002": {
             "name": {
@@ -50645,7 +50645,7 @@ data = {
               "lat": "20.060",
               "lng": "99.168"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501003": {
             "name": {
@@ -50667,7 +50667,7 @@ data = {
               "lat": "19.980",
               "lng": "99.382"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501005": {
             "name": {
@@ -50689,7 +50689,7 @@ data = {
               "lat": "19.871",
               "lng": "99.343"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -50708,7 +50708,7 @@ data = {
               "lat": "19.378",
               "lng": "99.203"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501102": {
             "name": {
@@ -50752,7 +50752,7 @@ data = {
               "lat": "19.504",
               "lng": "99.204"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501106": {
             "name": {
@@ -51043,7 +51043,7 @@ data = {
               "lat": "18.781",
               "lng": "99.189"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501312": {
             "name": {
@@ -51065,7 +51065,7 @@ data = {
               "lat": "18.775",
               "lng": "99.056"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -51323,7 +51323,7 @@ data = {
               "lat": "18.709",
               "lng": "98.881"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -51342,7 +51342,7 @@ data = {
               "lat": "18.160",
               "lng": "98.483"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501602": {
             "name": {
@@ -51652,7 +51652,7 @@ data = {
               "lat": "18.697",
               "lng": "98.997"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501910": {
             "name": {
@@ -51674,7 +51674,7 @@ data = {
               "lat": "18.640",
               "lng": "98.972"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "501912": {
             "name": {
@@ -51745,7 +51745,7 @@ data = {
               "lat": "19.748",
               "lng": "99.145"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502102": {
             "name": {
@@ -51756,7 +51756,7 @@ data = {
               "lat": "19.646",
               "lng": "99.178"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502103": {
             "name": {
@@ -51767,7 +51767,7 @@ data = {
               "lat": "19.730",
               "lng": "99.247"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502104": {
             "name": {
@@ -51778,7 +51778,7 @@ data = {
               "lat": "19.736",
               "lng": "99.073"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -51797,7 +51797,7 @@ data = {
               "lat": "18.637",
               "lng": "98.752"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502202": {
             "name": {
@@ -51808,7 +51808,7 @@ data = {
               "lat": "18.587",
               "lng": "98.741"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502203": {
             "name": {
@@ -51819,7 +51819,7 @@ data = {
               "lat": "18.554",
               "lng": "98.849"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502204": {
             "name": {
@@ -51830,7 +51830,7 @@ data = {
               "lat": "18.683",
               "lng": "98.674"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502205": {
             "name": {
@@ -51860,7 +51860,7 @@ data = {
               "lat": "18.793",
               "lng": "99.308"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502302": {
             "name": {
@@ -51871,7 +51871,7 @@ data = {
               "lat": "18.758",
               "lng": "99.263"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502303": {
             "name": {
@@ -51882,7 +51882,7 @@ data = {
               "lat": "18.825",
               "lng": "99.242"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502304": {
             "name": {
@@ -51893,7 +51893,7 @@ data = {
               "lat": "18.884",
               "lng": "99.327"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502305": {
             "name": {
@@ -51904,7 +51904,7 @@ data = {
               "lat": "18.591",
               "lng": "99.289"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502306": {
             "name": {
@@ -51915,7 +51915,7 @@ data = {
               "lat": "18.702",
               "lng": "99.308"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -51934,7 +51934,7 @@ data = {
               "lat": "18.488",
               "lng": "98.798"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502402": {
             "name": {
@@ -51945,7 +51945,7 @@ data = {
               "lat": "18.504",
               "lng": "98.841"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502403": {
             "name": {
@@ -51956,7 +51956,7 @@ data = {
               "lat": "18.560",
               "lng": "98.782"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502404": {
             "name": {
@@ -51967,7 +51967,7 @@ data = {
               "lat": "18.581",
               "lng": "98.682"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -51986,7 +51986,7 @@ data = {
               "lat": "19.110",
               "lng": "98.281"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502502": {
             "name": {
@@ -51997,7 +51997,7 @@ data = {
               "lat": "18.936",
               "lng": "98.380"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "502503": {
             "name": {
@@ -52008,7 +52008,7 @@ data = {
               "lat": "19.011",
               "lng": "98.218"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -52441,7 +52441,7 @@ data = {
               "lat": "17.983",
               "lng": "99.048"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "510502": {
             "name": {
@@ -52452,7 +52452,7 @@ data = {
               "lat": "17.870",
               "lng": "99.089"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "510503": {
             "name": {
@@ -52589,7 +52589,7 @@ data = {
               "lat": "18.614",
               "lng": "99.190"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "510702": {
             "name": {
@@ -52600,7 +52600,7 @@ data = {
               "lat": "18.679",
               "lng": "99.163"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -52619,7 +52619,7 @@ data = {
               "lat": "18.404",
               "lng": "98.732"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "510802": {
             "name": {
@@ -52630,7 +52630,7 @@ data = {
               "lat": "18.415",
               "lng": "98.780"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "510803": {
             "name": {
@@ -52641,7 +52641,7 @@ data = {
               "lat": "18.422",
               "lng": "98.744"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -52662,7 +52662,7 @@ data = {
           "520101": {
             "name": {
               "th": "เวียงเหนือ สวนดอก สบตุ๋ย อยู่นอก1 ตำบล คือหัวเ*",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "18.290",
@@ -52852,7 +52852,7 @@ data = {
               "lat": "18.374",
               "lng": "99.701"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "520202": {
             "name": {
@@ -52863,7 +52863,7 @@ data = {
               "lat": "18.343",
               "lng": "99.836"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "520203": {
             "name": {
@@ -53776,7 +53776,7 @@ data = {
               "lat": "18.797",
               "lng": "99.446"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "521302": {
             "name": {
@@ -53787,7 +53787,7 @@ data = {
               "lat": "18.685",
               "lng": "99.481"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "521303": {
             "name": {
@@ -53798,7 +53798,7 @@ data = {
               "lat": "18.570",
               "lng": "99.470"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "521304": {
             "name": {
@@ -53809,7 +53809,7 @@ data = {
               "lat": "18.838",
               "lng": "99.501"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "521305": {
             "name": {
@@ -54201,7 +54201,7 @@ data = {
               "lat": "17.720",
               "lng": "100.646"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "530402": {
             "name": {
@@ -54604,7 +54604,7 @@ data = {
               "lat": "17.535",
               "lng": "100.415"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "530902": {
             "name": {
@@ -54615,7 +54615,7 @@ data = {
               "lat": "17.444",
               "lng": "100.356"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "530903": {
             "name": {
@@ -54626,7 +54626,7 @@ data = {
               "lat": "17.495",
               "lng": "100.267"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "530904": {
             "name": {
@@ -54637,7 +54637,7 @@ data = {
               "lat": "17.581",
               "lng": "100.299"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -54796,7 +54796,7 @@ data = {
               "lat": "18.246",
               "lng": "100.139"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540114": {
             "name": {
@@ -55139,7 +55139,7 @@ data = {
               "lat": "18.034",
               "lng": "100.091"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540403": {
             "name": {
@@ -55512,7 +55512,7 @@ data = {
               "lat": "18.271",
               "lng": "100.218"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540802": {
             "name": {
@@ -55523,7 +55523,7 @@ data = {
               "lat": "18.295",
               "lng": "100.208"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540803": {
             "name": {
@@ -55534,7 +55534,7 @@ data = {
               "lat": "18.268",
               "lng": "100.138"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540804": {
             "name": {
@@ -55545,7 +55545,7 @@ data = {
               "lat": "18.294",
               "lng": "100.115"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "540805": {
             "name": {
@@ -55734,7 +55734,7 @@ data = {
               "lat": "18.687",
               "lng": "100.975"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550204": {
             "name": {
@@ -55786,7 +55786,7 @@ data = {
               "lat": "18.782",
               "lng": "100.429"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550302": {
             "name": {
@@ -55797,7 +55797,7 @@ data = {
               "lat": "18.858",
               "lng": "100.405"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550303": {
             "name": {
@@ -55945,7 +55945,7 @@ data = {
               "lat": "19.224",
               "lng": "100.951"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550504": {
             "name": {
@@ -56214,7 +56214,7 @@ data = {
               "lat": "18.637",
               "lng": "100.783"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550705": {
             "name": {
@@ -56428,7 +56428,7 @@ data = {
               "lat": "19.320",
               "lng": "100.970"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550902": {
             "name": {
@@ -56439,7 +56439,7 @@ data = {
               "lat": "19.324",
               "lng": "100.843"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "550903": {
             "name": {
@@ -56554,7 +56554,7 @@ data = {
               "lat": "18.898",
               "lng": "100.902"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551102": {
             "name": {
@@ -56576,7 +56576,7 @@ data = {
               "lat": "18.899",
               "lng": "100.983"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -56595,7 +56595,7 @@ data = {
               "lat": "19.297",
               "lng": "101.176"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551202": {
             "name": {
@@ -56606,7 +56606,7 @@ data = {
               "lat": "19.127",
               "lng": "101.130"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551204": {
             "name": {
@@ -56647,7 +56647,7 @@ data = {
               "lat": "19.339",
               "lng": "100.704"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551302": {
             "name": {
@@ -56669,7 +56669,7 @@ data = {
               "lat": "19.384",
               "lng": "100.567"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -56688,7 +56688,7 @@ data = {
               "lat": "18.756",
               "lng": "100.816"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551402": {
             "name": {
@@ -56699,7 +56699,7 @@ data = {
               "lat": "18.696",
               "lng": "100.801"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551403": {
             "name": {
@@ -56710,7 +56710,7 @@ data = {
               "lat": "18.698",
               "lng": "100.880"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551404": {
             "name": {
@@ -56721,7 +56721,7 @@ data = {
               "lat": "18.737",
               "lng": "100.841"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551405": {
             "name": {
@@ -56732,7 +56732,7 @@ data = {
               "lat": "18.878",
               "lng": "100.830"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551406": {
             "name": {
@@ -56743,7 +56743,7 @@ data = {
               "lat": "18.731",
               "lng": "100.791"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551407": {
             "name": {
@@ -56754,7 +56754,7 @@ data = {
               "lat": "18.803",
               "lng": "100.933"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -56773,7 +56773,7 @@ data = {
               "lat": "19.559",
               "lng": "101.046"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "551502": {
             "name": {
@@ -56784,7 +56784,7 @@ data = {
               "lat": "19.450",
               "lng": "101.128"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -57091,7 +57091,7 @@ data = {
               "lat": "19.495",
               "lng": "100.327"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560308": {
             "name": {
@@ -57527,7 +57527,7 @@ data = {
               "lat": "19.671",
               "lng": "100.378"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560802": {
             "name": {
@@ -57538,7 +57538,7 @@ data = {
               "lat": "19.622",
               "lng": "100.370"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560803": {
             "name": {
@@ -57549,7 +57549,7 @@ data = {
               "lat": "19.606",
               "lng": "100.417"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560804": {
             "name": {
@@ -57560,7 +57560,7 @@ data = {
               "lat": "19.616",
               "lng": "100.289"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560805": {
             "name": {
@@ -57571,7 +57571,7 @@ data = {
               "lat": "19.570",
               "lng": "100.317"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -57590,7 +57590,7 @@ data = {
               "lat": "19.311",
               "lng": "99.999"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560902": {
             "name": {
@@ -57601,7 +57601,7 @@ data = {
               "lat": "19.240",
               "lng": "99.952"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "560903": {
             "name": {
@@ -57612,7 +57612,7 @@ data = {
               "lat": "19.241",
               "lng": "99.989"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -57812,7 +57812,7 @@ data = {
               "lat": "19.866",
               "lng": "99.912"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570203": {
             "name": {
@@ -57823,7 +57823,7 @@ data = {
               "lat": "19.882",
               "lng": "100.046"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570204": {
             "name": {
@@ -57834,7 +57834,7 @@ data = {
               "lat": "19.932",
               "lng": "99.940"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570206": {
             "name": {
@@ -57875,7 +57875,7 @@ data = {
               "lat": "20.266",
               "lng": "100.369"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570302": {
             "name": {
@@ -57960,7 +57960,7 @@ data = {
               "lat": "19.692",
               "lng": "100.213"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570402": {
             "name": {
@@ -57987,7 +57987,7 @@ data = {
           "570404": {
             "name": {
               "th": "แม่ลอย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "19.573",
@@ -58251,7 +58251,7 @@ data = {
               "lat": "19.507",
               "lng": "100.015"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570602": {
             "name": {
@@ -58262,7 +58262,7 @@ data = {
               "lat": "19.579",
               "lng": "99.933"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570603": {
             "name": {
@@ -58273,7 +58273,7 @@ data = {
               "lat": "19.466",
               "lng": "100.048"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570605": {
             "name": {
@@ -58347,7 +58347,7 @@ data = {
               "lat": "20.181",
               "lng": "99.846"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570705": {
             "name": {
@@ -58358,7 +58358,7 @@ data = {
               "lat": "20.171",
               "lng": "99.891"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570706": {
             "name": {
@@ -58443,7 +58443,7 @@ data = {
               "lat": "20.305",
               "lng": "100.081"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "570802": {
             "name": {
@@ -58624,7 +58624,7 @@ data = {
               "lat": "19.715",
               "lng": "99.427"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571003": {
             "name": {
@@ -58709,7 +58709,7 @@ data = {
               "lat": "19.358",
               "lng": "99.422"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571103": {
             "name": {
@@ -58783,7 +58783,7 @@ data = {
               "lat": "19.902",
               "lng": "100.118"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571202": {
             "name": {
@@ -58846,7 +58846,7 @@ data = {
               "lat": "20.108",
               "lng": "100.539"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571302": {
             "name": {
@@ -58857,7 +58857,7 @@ data = {
               "lat": "19.940",
               "lng": "100.449"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571303": {
             "name": {
@@ -58868,7 +58868,7 @@ data = {
               "lat": "20.117",
               "lng": "100.480"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571304": {
             "name": {
@@ -58898,7 +58898,7 @@ data = {
               "lat": "19.804",
               "lng": "100.233"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571402": {
             "name": {
@@ -58909,7 +58909,7 @@ data = {
               "lat": "19.847",
               "lng": "100.272"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571403": {
             "name": {
@@ -58920,7 +58920,7 @@ data = {
               "lat": "19.924",
               "lng": "100.306"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -58961,7 +58961,7 @@ data = {
               "lat": "20.141",
               "lng": "99.654"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571504": {
             "name": {
@@ -58991,7 +58991,7 @@ data = {
               "lat": "19.734",
               "lng": "99.670"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571602": {
             "name": {
@@ -59002,7 +59002,7 @@ data = {
               "lat": "19.757",
               "lng": "99.747"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571603": {
             "name": {
@@ -59013,7 +59013,7 @@ data = {
               "lat": "19.804",
               "lng": "99.768"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571604": {
             "name": {
@@ -59024,7 +59024,7 @@ data = {
               "lat": "19.794",
               "lng": "99.715"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571605": {
             "name": {
@@ -59035,7 +59035,7 @@ data = {
               "lat": "19.812",
               "lng": "99.653"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -59054,7 +59054,7 @@ data = {
               "lat": "19.984",
               "lng": "100.049"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571702": {
             "name": {
@@ -59065,7 +59065,7 @@ data = {
               "lat": "20.041",
               "lng": "100.006"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571703": {
             "name": {
@@ -59076,7 +59076,7 @@ data = {
               "lat": "20.048",
               "lng": "100.120"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -59095,7 +59095,7 @@ data = {
               "lat": "20.104",
               "lng": "100.068"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571802": {
             "name": {
@@ -59106,7 +59106,7 @@ data = {
               "lat": "20.134",
               "lng": "100.193"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "571803": {
             "name": {
@@ -59117,7 +59117,7 @@ data = {
               "lat": "20.181",
               "lng": "100.124"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -59558,7 +59558,7 @@ data = {
               "lat": "17.898",
               "lng": "97.872"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "580602": {
             "name": {
@@ -59569,7 +59569,7 @@ data = {
               "lat": "18.003",
               "lng": "97.981"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "580603": {
             "name": {
@@ -59632,7 +59632,7 @@ data = {
               "lat": "19.453",
               "lng": "98.169"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "580702": {
             "name": {
@@ -59643,7 +59643,7 @@ data = {
               "lat": "19.615",
               "lng": "98.204"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "580703": {
             "name": {
@@ -59824,7 +59824,7 @@ data = {
               "lat": "15.735",
               "lng": "100.080"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "600114": {
             "name": {
@@ -60340,7 +60340,7 @@ data = {
               "lat": "15.997",
               "lng": "100.095"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "600511": {
             "name": {
@@ -61193,7 +61193,7 @@ data = {
               "lat": "15.738",
               "lng": "99.294"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -61212,7 +61212,7 @@ data = {
               "lat": "15.627",
               "lng": "99.572"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "601502": {
             "name": {
@@ -61223,7 +61223,7 @@ data = {
               "lat": "15.688",
               "lng": "99.560"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -61958,7 +61958,7 @@ data = {
               "lat": "15.486",
               "lng": "99.544"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "610702": {
             "name": {
@@ -61969,7 +61969,7 @@ data = {
               "lat": "15.452",
               "lng": "99.643"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "610703": {
             "name": {
@@ -61980,7 +61980,7 @@ data = {
               "lat": "15.408",
               "lng": "99.519"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "610704": {
             "name": {
@@ -62032,7 +62032,7 @@ data = {
               "lat": "15.274",
               "lng": "99.646"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "610802": {
             "name": {
@@ -62054,7 +62054,7 @@ data = {
               "lat": "15.272",
               "lng": "99.568"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -62265,7 +62265,7 @@ data = {
               "lat": "16.487",
               "lng": "99.897"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620202": {
             "name": {
@@ -62276,7 +62276,7 @@ data = {
               "lat": "16.452",
               "lng": "99.827"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620203": {
             "name": {
@@ -62361,7 +62361,7 @@ data = {
               "lat": "16.389",
               "lng": "99.258"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620303": {
             "name": {
@@ -62852,7 +62852,7 @@ data = {
               "lat": "16.305",
               "lng": "99.862"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620802": {
             "name": {
@@ -62863,7 +62863,7 @@ data = {
               "lat": "16.341",
               "lng": "99.899"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620803": {
             "name": {
@@ -62893,7 +62893,7 @@ data = {
               "lat": "16.110",
               "lng": "99.527"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620902": {
             "name": {
@@ -62904,7 +62904,7 @@ data = {
               "lat": "16.052",
               "lng": "99.426"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "620903": {
             "name": {
@@ -62915,7 +62915,7 @@ data = {
               "lat": "16.017",
               "lng": "99.164"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -62934,7 +62934,7 @@ data = {
               "lat": "16.285",
               "lng": "99.985"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "621002": {
             "name": {
@@ -62945,7 +62945,7 @@ data = {
               "lat": "16.233",
               "lng": "99.926"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "621003": {
             "name": {
@@ -62956,7 +62956,7 @@ data = {
               "lat": "16.158",
               "lng": "99.941"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "621004": {
             "name": {
@@ -62986,7 +62986,7 @@ data = {
               "lat": "16.501",
               "lng": "99.215"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "621102": {
             "name": {
@@ -62997,7 +62997,7 @@ data = {
               "lat": "16.580",
               "lng": "99.361"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "621103": {
             "name": {
@@ -63008,7 +63008,7 @@ data = {
               "lat": "16.581",
               "lng": "99.429"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -63029,7 +63029,7 @@ data = {
           "630101": {
             "name": {
               "th": "ระแหง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.862",
@@ -63663,7 +63663,7 @@ data = {
               "lat": "16.033",
               "lng": "98.739"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "630803": {
             "name": {
@@ -63726,7 +63726,7 @@ data = {
               "lat": "16.571",
               "lng": "99.122"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "630902": {
             "name": {
@@ -63737,7 +63737,7 @@ data = {
               "lat": "16.705",
               "lng": "99.156"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "630903": {
             "name": {
@@ -63748,7 +63748,7 @@ data = {
               "lat": "16.748",
               "lng": "99.184"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -63802,7 +63802,7 @@ data = {
           "640104": {
             "name": {
               "th": "ปากแคว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "17.043",
@@ -64365,7 +64365,7 @@ data = {
               "lat": "17.147",
               "lng": "99.883"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "640603": {
             "name": {
@@ -64667,7 +64667,7 @@ data = {
               "lat": "17.373",
               "lng": "99.980"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "640802": {
             "name": {
@@ -64678,7 +64678,7 @@ data = {
               "lat": "17.471",
               "lng": "99.955"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "640803": {
             "name": {
@@ -64689,7 +64689,7 @@ data = {
               "lat": "17.412",
               "lng": "99.982"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "640804": {
             "name": {
@@ -64700,7 +64700,7 @@ data = {
               "lat": "17.319",
               "lng": "99.962"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "640805": {
             "name": {
@@ -65811,7 +65811,7 @@ data = {
               "lat": "16.717",
               "lng": "100.641"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "650902": {
             "name": {
@@ -65822,7 +65822,7 @@ data = {
               "lat": "16.543",
               "lng": "100.752"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "650903": {
             "name": {
@@ -65833,7 +65833,7 @@ data = {
               "lat": "16.452",
               "lng": "100.634"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "650904": {
             "name": {
@@ -65844,7 +65844,7 @@ data = {
               "lat": "16.383",
               "lng": "100.664"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "650905": {
             "name": {
@@ -65855,7 +65855,7 @@ data = {
               "lat": "16.542",
               "lng": "100.596"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "650906": {
             "name": {
@@ -65909,7 +65909,7 @@ data = {
           "660102": {
             "name": {
               "th": "ไผ่ขวาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.504",
@@ -65920,7 +65920,7 @@ data = {
           "660103": {
             "name": {
               "th": "ย่านยาว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.507",
@@ -65931,7 +65931,7 @@ data = {
           "660104": {
             "name": {
               "th": "ท่าฬอ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.510",
@@ -65942,7 +65942,7 @@ data = {
           "660105": {
             "name": {
               "th": "ปากทาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.453",
@@ -65953,7 +65953,7 @@ data = {
           "660106": {
             "name": {
               "th": "คลองคะเชนทร์",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.458",
@@ -65964,7 +65964,7 @@ data = {
           "660107": {
             "name": {
               "th": "โรงช้าง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.422",
@@ -65975,7 +65975,7 @@ data = {
           "660108": {
             "name": {
               "th": "เมืองเก่า",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.393",
@@ -65986,7 +65986,7 @@ data = {
           "660109": {
             "name": {
               "th": "ท่าหลวง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.419",
@@ -65997,7 +65997,7 @@ data = {
           "660110": {
             "name": {
               "th": "บ้านบุ่ง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.394",
@@ -66008,7 +66008,7 @@ data = {
           "660111": {
             "name": {
               "th": "ฆะมัง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.369",
@@ -66019,7 +66019,7 @@ data = {
           "660112": {
             "name": {
               "th": "ดงป่าคำ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.295",
@@ -66030,7 +66030,7 @@ data = {
           "660113": {
             "name": {
               "th": "หัวดง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.332",
@@ -66041,7 +66041,7 @@ data = {
           "660115": {
             "name": {
               "th": "ป่ามะคาบ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.501",
@@ -66052,7 +66052,7 @@ data = {
           "660119": {
             "name": {
               "th": "สายคำโห้",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.407",
@@ -66063,7 +66063,7 @@ data = {
           "660120": {
             "name": {
               "th": "ดงกลาง",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "16.335",
@@ -66088,7 +66088,7 @@ data = {
               "lat": "16.383",
               "lng": "100.605"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660202": {
             "name": {
@@ -66099,7 +66099,7 @@ data = {
               "lat": "16.443",
               "lng": "100.535"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660203": {
             "name": {
@@ -66110,7 +66110,7 @@ data = {
               "lat": "16.342",
               "lng": "100.566"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660204": {
             "name": {
@@ -66121,7 +66121,7 @@ data = {
               "lat": "16.339",
               "lng": "100.504"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -66140,7 +66140,7 @@ data = {
               "lat": "16.323",
               "lng": "100.300"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660302": {
             "name": {
@@ -66151,7 +66151,7 @@ data = {
               "lat": "16.278",
               "lng": "100.235"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660303": {
             "name": {
@@ -66162,7 +66162,7 @@ data = {
               "lat": "16.351",
               "lng": "100.264"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660304": {
             "name": {
@@ -66173,7 +66173,7 @@ data = {
               "lat": "16.354",
               "lng": "100.152"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660305": {
             "name": {
@@ -66409,7 +66409,7 @@ data = {
               "lat": "15.968",
               "lng": "100.433"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660506": {
             "name": {
@@ -66675,7 +66675,7 @@ data = {
               "lat": "16.189",
               "lng": "100.568"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660802": {
             "name": {
@@ -66686,7 +66686,7 @@ data = {
               "lat": "16.193",
               "lng": "100.637"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660803": {
             "name": {
@@ -66697,7 +66697,7 @@ data = {
               "lat": "16.274",
               "lng": "100.569"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660804": {
             "name": {
@@ -66708,7 +66708,7 @@ data = {
               "lat": "16.086",
               "lng": "100.618"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -66727,7 +66727,7 @@ data = {
               "lat": "16.486",
               "lng": "100.461"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660902": {
             "name": {
@@ -66738,7 +66738,7 @@ data = {
               "lat": "16.522",
               "lng": "100.556"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660903": {
             "name": {
@@ -66749,7 +66749,7 @@ data = {
               "lat": "16.552",
               "lng": "100.559"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "660904": {
             "name": {
@@ -66790,7 +66790,7 @@ data = {
               "lat": "16.162",
               "lng": "100.111"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661002": {
             "name": {
@@ -66801,7 +66801,7 @@ data = {
               "lat": "16.121",
               "lng": "100.147"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661003": {
             "name": {
@@ -66812,7 +66812,7 @@ data = {
               "lat": "16.225",
               "lng": "100.073"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661004": {
             "name": {
@@ -66823,7 +66823,7 @@ data = {
               "lat": "16.208",
               "lng": "100.231"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661005": {
             "name": {
@@ -66834,7 +66834,7 @@ data = {
               "lat": "16.205",
               "lng": "100.163"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -66853,7 +66853,7 @@ data = {
               "lat": "16.028",
               "lng": "100.648"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661102": {
             "name": {
@@ -66864,7 +66864,7 @@ data = {
               "lat": "16.000",
               "lng": "100.741"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661103": {
             "name": {
@@ -66875,7 +66875,7 @@ data = {
               "lat": "15.972",
               "lng": "100.536"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661104": {
             "name": {
@@ -66886,7 +66886,7 @@ data = {
               "lat": "16.004",
               "lng": "100.609"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661105": {
             "name": {
@@ -66897,7 +66897,7 @@ data = {
               "lat": "16.042",
               "lng": "100.568"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -66916,7 +66916,7 @@ data = {
               "lat": "16.495",
               "lng": "100.128"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661202": {
             "name": {
@@ -66927,7 +66927,7 @@ data = {
               "lat": "16.484",
               "lng": "100.053"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661203": {
             "name": {
@@ -66938,7 +66938,7 @@ data = {
               "lat": "16.563",
               "lng": "100.091"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "661204": {
             "name": {
@@ -66949,7 +66949,7 @@ data = {
               "lat": "16.597",
               "lng": "100.114"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -67679,7 +67679,7 @@ data = {
               "lat": "15.687",
               "lng": "101.306"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670506": {
             "name": {
@@ -67717,7 +67717,7 @@ data = {
           "670509": {
             "name": {
               "th": "ภูน้ำหยด",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "15.530",
@@ -67797,7 +67797,7 @@ data = {
               "lat": "15.439",
               "lng": "101.140"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670602": {
             "name": {
@@ -67808,7 +67808,7 @@ data = {
               "lat": "15.420",
               "lng": "101.070"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670603": {
             "name": {
@@ -67819,7 +67819,7 @@ data = {
               "lat": "15.370",
               "lng": "101.164"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670604": {
             "name": {
@@ -67830,7 +67830,7 @@ data = {
               "lat": "15.527",
               "lng": "101.136"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670605": {
             "name": {
@@ -68140,7 +68140,7 @@ data = {
               "lat": "16.764",
               "lng": "101.681"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "670902": {
             "name": {
@@ -68192,7 +68192,7 @@ data = {
               "lat": "16.347",
               "lng": "100.809"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "671002": {
             "name": {
@@ -68203,7 +68203,7 @@ data = {
               "lat": "16.297",
               "lng": "100.678"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "671003": {
             "name": {
@@ -68266,7 +68266,7 @@ data = {
               "lat": "16.780",
               "lng": "101.055"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "671103": {
             "name": {
@@ -68672,7 +68672,7 @@ data = {
               "lat": "13.612",
               "lng": "99.249"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700302": {
             "name": {
@@ -68683,7 +68683,7 @@ data = {
               "lat": "13.578",
               "lng": "99.423"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700304": {
             "name": {
@@ -68801,7 +68801,7 @@ data = {
               "lat": "13.606",
               "lng": "99.909"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700409": {
             "name": {
@@ -69018,7 +69018,7 @@ data = {
               "lat": "13.819",
               "lng": "99.851"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700515": {
             "name": {
@@ -69144,7 +69144,7 @@ data = {
               "lat": "13.752",
               "lng": "99.899"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700703": {
             "name": {
@@ -69372,7 +69372,7 @@ data = {
               "lat": "13.368",
               "lng": "99.776"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "700804": {
             "name": {
@@ -69531,7 +69531,7 @@ data = {
               "lat": "13.418",
               "lng": "99.386"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "701002": {
             "name": {
@@ -69542,7 +69542,7 @@ data = {
               "lat": "13.283",
               "lng": "99.444"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "701003": {
             "name": {
@@ -69553,7 +69553,7 @@ data = {
               "lat": "13.448",
               "lng": "99.462"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -70096,7 +70096,7 @@ data = {
               "lat": "13.843",
               "lng": "99.805"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "710517": {
             "name": {
@@ -70447,7 +70447,7 @@ data = {
               "lat": "14.134",
               "lng": "99.746"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "710906": {
             "name": {
@@ -70584,7 +70584,7 @@ data = {
               "lat": "13.836",
               "lng": "99.388"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711102": {
             "name": {
@@ -70595,7 +70595,7 @@ data = {
               "lat": "13.880",
               "lng": "99.440"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711103": {
             "name": {
@@ -70606,7 +70606,7 @@ data = {
               "lat": "13.811",
               "lng": "99.210"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711104": {
             "name": {
@@ -70636,7 +70636,7 @@ data = {
               "lat": "14.630",
               "lng": "99.454"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711202": {
             "name": {
@@ -70647,7 +70647,7 @@ data = {
               "lat": "14.626",
               "lng": "99.527"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711203": {
             "name": {
@@ -70658,7 +70658,7 @@ data = {
               "lat": "14.746",
               "lng": "99.338"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -70677,7 +70677,7 @@ data = {
               "lat": "14.312",
               "lng": "99.618"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711302": {
             "name": {
@@ -70688,7 +70688,7 @@ data = {
               "lat": "14.434",
               "lng": "99.597"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711303": {
             "name": {
@@ -70699,7 +70699,7 @@ data = {
               "lat": "14.292",
               "lng": "99.701"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "711304": {
             "name": {
@@ -70710,7 +70710,7 @@ data = {
               "lat": "14.357",
               "lng": "99.764"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -71116,7 +71116,7 @@ data = {
               "lat": "14.882",
               "lng": "99.737"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "720302": {
             "name": {
@@ -71127,7 +71127,7 @@ data = {
               "lat": "14.744",
               "lng": "99.527"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "720303": {
             "name": {
@@ -71138,7 +71138,7 @@ data = {
               "lat": "14.922",
               "lng": "99.534"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "720304": {
             "name": {
@@ -71149,7 +71149,7 @@ data = {
               "lat": "14.800",
               "lng": "99.386"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "720305": {
             "name": {
@@ -71942,7 +71942,7 @@ data = {
               "lat": "14.776",
               "lng": "99.885"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "721002": {
             "name": {
@@ -71953,7 +71953,7 @@ data = {
               "lat": "14.720",
               "lng": "99.931"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "721003": {
             "name": {
@@ -71964,7 +71964,7 @@ data = {
               "lat": "14.831",
               "lng": "99.919"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "721004": {
             "name": {
@@ -71975,7 +71975,7 @@ data = {
               "lat": "14.820",
               "lng": "99.804"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "721005": {
             "name": {
@@ -72892,7 +72892,7 @@ data = {
               "lat": "13.914",
               "lng": "100.254"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "730506": {
             "name": {
@@ -73205,7 +73205,7 @@ data = {
               "lat": "13.813",
               "lng": "100.305"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "730702": {
             "name": {
@@ -73216,7 +73216,7 @@ data = {
               "lat": "13.862",
               "lng": "100.281"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "730703": {
             "name": {
@@ -73227,7 +73227,7 @@ data = {
               "lat": "13.815",
               "lng": "100.262"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -74544,7 +74544,7 @@ data = {
               "lat": "13.201",
               "lng": "99.709"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "760302": {
             "name": {
@@ -75156,7 +75156,7 @@ data = {
               "lat": "12.979",
               "lng": "99.609"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "760802": {
             "name": {
@@ -75167,7 +75167,7 @@ data = {
               "lat": "12.853",
               "lng": "99.614"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "760803": {
             "name": {
@@ -75178,7 +75178,7 @@ data = {
               "lat": "12.942",
               "lng": "99.735"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "760804": {
             "name": {
@@ -75767,7 +75767,7 @@ data = {
               "lat": "12.266",
               "lng": "99.946"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "770802": {
             "name": {
@@ -75778,7 +75778,7 @@ data = {
               "lat": "12.309",
               "lng": "99.560"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "770803": {
             "name": {
@@ -75789,7 +75789,7 @@ data = {
               "lat": "12.252",
               "lng": "99.706"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "770804": {
             "name": {
@@ -75811,7 +75811,7 @@ data = {
               "lat": "12.214",
               "lng": "99.746"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -75887,7 +75887,7 @@ data = {
           "800108": {
             "name": {
               "th": "นาทราย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "8.479",
@@ -76022,7 +76022,7 @@ data = {
               "lat": "8.500",
               "lng": "99.793"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "800202": {
             "name": {
@@ -76033,7 +76033,7 @@ data = {
               "lat": "8.539",
               "lng": "99.814"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "800203": {
             "name": {
@@ -76044,7 +76044,7 @@ data = {
               "lat": "8.540",
               "lng": "99.874"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "800204": {
             "name": {
@@ -76845,7 +76845,7 @@ data = {
               "lat": "8.243",
               "lng": "99.600"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801002": {
             "name": {
@@ -76856,7 +76856,7 @@ data = {
               "lat": "8.255",
               "lng": "99.487"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801003": {
             "name": {
@@ -76867,7 +76867,7 @@ data = {
               "lat": "8.282",
               "lng": "99.528"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77136,7 +77136,7 @@ data = {
               "lat": "8.244",
               "lng": "100.212"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801218": {
             "name": {
@@ -77517,7 +77517,7 @@ data = {
               "lat": "8.069",
               "lng": "99.422"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801702": {
             "name": {
@@ -77528,7 +77528,7 @@ data = {
               "lat": "7.968",
               "lng": "99.417"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801703": {
             "name": {
@@ -77539,7 +77539,7 @@ data = {
               "lat": "7.984",
               "lng": "99.554"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801704": {
             "name": {
@@ -77569,7 +77569,7 @@ data = {
               "lat": "8.414",
               "lng": "99.373"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801802": {
             "name": {
@@ -77580,7 +77580,7 @@ data = {
               "lat": "8.491",
               "lng": "99.419"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801803": {
             "name": {
@@ -77591,7 +77591,7 @@ data = {
               "lat": "8.466",
               "lng": "99.347"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77610,7 +77610,7 @@ data = {
               "lat": "8.028",
               "lng": "99.924"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801902": {
             "name": {
@@ -77621,7 +77621,7 @@ data = {
               "lat": "8.058",
               "lng": "99.933"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801903": {
             "name": {
@@ -77632,7 +77632,7 @@ data = {
               "lat": "8.103",
               "lng": "99.935"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801904": {
             "name": {
@@ -77643,7 +77643,7 @@ data = {
               "lat": "8.109",
               "lng": "99.829"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801905": {
             "name": {
@@ -77654,7 +77654,7 @@ data = {
               "lat": "8.030",
               "lng": "99.813"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "801906": {
             "name": {
@@ -77665,7 +77665,7 @@ data = {
               "lat": "8.060",
               "lng": "99.806"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77684,7 +77684,7 @@ data = {
               "lat": "8.331",
               "lng": "99.907"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802002": {
             "name": {
@@ -77695,7 +77695,7 @@ data = {
               "lat": "8.370",
               "lng": "99.920"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802003": {
             "name": {
@@ -77706,7 +77706,7 @@ data = {
               "lat": "8.302",
               "lng": "99.909"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802004": {
             "name": {
@@ -77717,7 +77717,7 @@ data = {
               "lat": "8.311",
               "lng": "99.966"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77736,7 +77736,7 @@ data = {
               "lat": "8.744",
               "lng": "99.772"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802102": {
             "name": {
@@ -77747,7 +77747,7 @@ data = {
               "lat": "8.804",
               "lng": "99.635"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802103": {
             "name": {
@@ -77758,7 +77758,7 @@ data = {
               "lat": "8.666",
               "lng": "99.827"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802104": {
             "name": {
@@ -77769,7 +77769,7 @@ data = {
               "lat": "8.660",
               "lng": "99.745"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77788,7 +77788,7 @@ data = {
               "lat": "8.336",
               "lng": "99.638"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802202": {
             "name": {
@@ -77799,7 +77799,7 @@ data = {
               "lat": "8.354",
               "lng": "99.535"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802203": {
             "name": {
@@ -77810,7 +77810,7 @@ data = {
               "lat": "8.416",
               "lng": "99.643"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -77829,7 +77829,7 @@ data = {
               "lat": "8.184",
               "lng": "100.078"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802302": {
             "name": {
@@ -77840,7 +77840,7 @@ data = {
               "lat": "8.213",
               "lng": "100.039"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802303": {
             "name": {
@@ -77851,7 +77851,7 @@ data = {
               "lat": "8.139",
               "lng": "100.037"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "802304": {
             "name": {
@@ -77862,7 +77862,7 @@ data = {
               "lat": "8.239",
               "lng": "99.981"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -77883,7 +77883,7 @@ data = {
           "810101": {
             "name": {
               "th": "ปากน้ำ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "8.090",
@@ -78325,7 +78325,7 @@ data = {
               "lat": "8.564",
               "lng": "98.879"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810602": {
             "name": {
@@ -78336,7 +78336,7 @@ data = {
               "lat": "8.560",
               "lng": "98.798"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810603": {
             "name": {
@@ -78347,7 +78347,7 @@ data = {
               "lat": "8.612",
               "lng": "98.739"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810604": {
             "name": {
@@ -78377,7 +78377,7 @@ data = {
               "lat": "7.960",
               "lng": "99.348"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810702": {
             "name": {
@@ -78429,7 +78429,7 @@ data = {
               "lat": "8.086",
               "lng": "98.990"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810802": {
             "name": {
@@ -78440,7 +78440,7 @@ data = {
               "lat": "7.836",
               "lng": "98.963"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810803": {
             "name": {
@@ -78451,7 +78451,7 @@ data = {
               "lat": "7.960",
               "lng": "99.030"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810804": {
             "name": {
@@ -78462,7 +78462,7 @@ data = {
               "lat": "8.036",
               "lng": "98.976"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810805": {
             "name": {
@@ -78473,7 +78473,7 @@ data = {
               "lat": "8.090",
               "lng": "99.087"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810806": {
             "name": {
@@ -78484,7 +78484,7 @@ data = {
               "lat": "7.963",
               "lng": "98.969"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810807": {
             "name": {
@@ -78495,7 +78495,7 @@ data = {
               "lat": "8.015",
               "lng": "99.062"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "810808": {
             "name": {
@@ -78506,7 +78506,7 @@ data = {
               "lat": "8.120",
               "lng": "99.026"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -78640,7 +78640,7 @@ data = {
               "lat": "8.190",
               "lng": "98.547"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "820202": {
             "name": {
@@ -78651,7 +78651,7 @@ data = {
               "lat": "8.040",
               "lng": "98.638"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "820203": {
             "name": {
@@ -79160,7 +79160,7 @@ data = {
           "830105": {
             "name": {
               "th": "รัษฎา",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.874",
@@ -80259,7 +80259,7 @@ data = {
           "841201": {
             "name": {
               "th": "นาสาร",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "8.812",
@@ -80325,7 +80325,7 @@ data = {
           "841207": {
             "name": {
               "th": "ควนสุบรรณ",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "8.876",
@@ -80394,7 +80394,7 @@ data = {
               "lat": "8.856",
               "lng": "99.293"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841302": {
             "name": {
@@ -80405,7 +80405,7 @@ data = {
               "lat": "8.947",
               "lng": "99.269"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841303": {
             "name": {
@@ -80723,7 +80723,7 @@ data = {
               "lat": "8.949",
               "lng": "99.126"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841708": {
             "name": {
@@ -80841,7 +80841,7 @@ data = {
               "lat": "8.483",
               "lng": "99.125"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841802": {
             "name": {
@@ -80852,7 +80852,7 @@ data = {
               "lat": "8.434",
               "lng": "99.071"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841803": {
             "name": {
@@ -80863,7 +80863,7 @@ data = {
               "lat": "8.503",
               "lng": "98.997"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841804": {
             "name": {
@@ -80893,7 +80893,7 @@ data = {
               "lat": "9.227",
               "lng": "98.807"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "841902": {
             "name": {
@@ -80904,7 +80904,7 @@ data = {
               "lat": "9.252",
               "lng": "98.909"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -81271,7 +81271,7 @@ data = {
               "lat": "9.424",
               "lng": "98.540"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "850502": {
             "name": {
@@ -81282,7 +81282,7 @@ data = {
               "lat": "9.364",
               "lng": "98.424"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -81795,7 +81795,7 @@ data = {
               "lat": "9.955",
               "lng": "99.151"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "860410": {
             "name": {
@@ -82700,7 +82700,7 @@ data = {
               "lat": "6.880",
               "lng": "100.818"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -82966,7 +82966,7 @@ data = {
               "lat": "7.540",
               "lng": "100.323"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "900802": {
             "name": {
@@ -82977,7 +82977,7 @@ data = {
               "lat": "7.677",
               "lng": "100.271"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "900803": {
             "name": {
@@ -82988,7 +82988,7 @@ data = {
               "lat": "7.634",
               "lng": "100.332"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "900804": {
             "name": {
@@ -83339,7 +83339,7 @@ data = {
               "lat": "6.965",
               "lng": "100.529"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901202": {
             "name": {
@@ -83350,7 +83350,7 @@ data = {
               "lat": "6.991",
               "lng": "100.561"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901203": {
             "name": {
@@ -83361,7 +83361,7 @@ data = {
               "lat": "6.916",
               "lng": "100.547"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901204": {
             "name": {
@@ -83372,7 +83372,7 @@ data = {
               "lat": "6.924",
               "lng": "100.591"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -83391,7 +83391,7 @@ data = {
               "lat": "7.182",
               "lng": "100.370"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901302": {
             "name": {
@@ -83402,7 +83402,7 @@ data = {
               "lat": "7.229",
               "lng": "100.402"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901303": {
             "name": {
@@ -83413,7 +83413,7 @@ data = {
               "lat": "7.267",
               "lng": "100.366"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901304": {
             "name": {
@@ -83424,7 +83424,7 @@ data = {
               "lat": "7.112",
               "lng": "100.364"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -83443,7 +83443,7 @@ data = {
               "lat": "7.135",
               "lng": "100.446"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901402": {
             "name": {
@@ -83454,7 +83454,7 @@ data = {
               "lat": "7.048",
               "lng": "100.378"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901403": {
             "name": {
@@ -83465,7 +83465,7 @@ data = {
               "lat": "7.100",
               "lng": "100.456"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901404": {
             "name": {
@@ -83476,7 +83476,7 @@ data = {
               "lat": "7.075",
               "lng": "100.450"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -83495,7 +83495,7 @@ data = {
               "lat": "7.266",
               "lng": "100.524"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901502": {
             "name": {
@@ -83506,7 +83506,7 @@ data = {
               "lat": "7.210",
               "lng": "100.524"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901503": {
             "name": {
@@ -83517,7 +83517,7 @@ data = {
               "lat": "7.246",
               "lng": "100.506"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901504": {
             "name": {
@@ -83528,7 +83528,7 @@ data = {
               "lat": "7.290",
               "lng": "100.486"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901505": {
             "name": {
@@ -83539,7 +83539,7 @@ data = {
               "lat": "7.304",
               "lng": "100.497"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901506": {
             "name": {
@@ -83550,7 +83550,7 @@ data = {
               "lat": "7.308",
               "lng": "100.441"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901507": {
             "name": {
@@ -83561,7 +83561,7 @@ data = {
               "lat": "7.277",
               "lng": "100.441"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901508": {
             "name": {
@@ -83572,7 +83572,7 @@ data = {
               "lat": "7.241",
               "lng": "100.469"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901509": {
             "name": {
@@ -83583,7 +83583,7 @@ data = {
               "lat": "7.181",
               "lng": "100.570"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901510": {
             "name": {
@@ -83594,7 +83594,7 @@ data = {
               "lat": "7.346",
               "lng": "100.437"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901511": {
             "name": {
@@ -83605,7 +83605,7 @@ data = {
               "lat": "7.347",
               "lng": "100.476"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -83624,7 +83624,7 @@ data = {
               "lat": "6.830",
               "lng": "100.313"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901602": {
             "name": {
@@ -83635,7 +83635,7 @@ data = {
               "lat": "6.886",
               "lng": "100.442"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901603": {
             "name": {
@@ -83646,7 +83646,7 @@ data = {
               "lat": "6.875",
               "lng": "100.406"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "901604": {
             "name": {
@@ -83898,7 +83898,7 @@ data = {
               "lat": "6.903",
               "lng": "99.932"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -83917,7 +83917,7 @@ data = {
               "lat": "6.791",
               "lng": "99.964"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "910402": {
             "name": {
@@ -84106,7 +84106,7 @@ data = {
               "lat": "7.038",
               "lng": "99.934"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "910702": {
             "name": {
@@ -84117,7 +84117,7 @@ data = {
               "lat": "6.950",
               "lng": "99.931"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -84465,24 +84465,24 @@ data = {
           "920221": {
             "name": {
               "th": "เกาะลูกไม้",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.291",
               "lng": "99.450"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920222": {
             "name": {
               "th": "เกาะนก",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.272",
               "lng": "99.475"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -84701,13 +84701,13 @@ data = {
           "920414": {
             "name": {
               "th": "เกาะค้างคาว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.152",
               "lng": "99.651"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -84973,7 +84973,7 @@ data = {
               "lat": "7.651",
               "lng": "99.459"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920702": {
             "name": {
@@ -84984,7 +84984,7 @@ data = {
               "lat": "7.656",
               "lng": "99.382"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920703": {
             "name": {
@@ -84995,7 +84995,7 @@ data = {
               "lat": "7.862",
               "lng": "99.365"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920704": {
             "name": {
@@ -85006,7 +85006,7 @@ data = {
               "lat": "7.690",
               "lng": "99.523"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920705": {
             "name": {
@@ -85036,7 +85036,7 @@ data = {
               "lat": "7.566",
               "lng": "99.699"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920802": {
             "name": {
@@ -85047,7 +85047,7 @@ data = {
               "lat": "7.546",
               "lng": "99.793"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920803": {
             "name": {
@@ -85058,7 +85058,7 @@ data = {
               "lat": "7.597",
               "lng": "99.753"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920804": {
             "name": {
@@ -85069,7 +85069,7 @@ data = {
               "lat": "7.490",
               "lng": "99.714"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920805": {
             "name": {
@@ -85080,7 +85080,7 @@ data = {
               "lat": "7.609",
               "lng": "99.699"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920806": {
             "name": {
@@ -85091,7 +85091,7 @@ data = {
               "lat": "7.532",
               "lng": "99.710"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85110,7 +85110,7 @@ data = {
               "lat": "7.938",
               "lng": "99.596"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920902": {
             "name": {
@@ -85121,7 +85121,7 @@ data = {
               "lat": "7.987",
               "lng": "99.645"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920903": {
             "name": {
@@ -85132,7 +85132,7 @@ data = {
               "lat": "7.978",
               "lng": "99.731"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920904": {
             "name": {
@@ -85143,7 +85143,7 @@ data = {
               "lat": "7.900",
               "lng": "99.669"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "920905": {
             "name": {
@@ -85154,7 +85154,7 @@ data = {
               "lat": "7.960",
               "lng": "99.661"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85173,7 +85173,7 @@ data = {
               "lat": "7.256",
               "lng": "99.552"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "921002": {
             "name": {
@@ -85184,7 +85184,7 @@ data = {
               "lat": "7.283",
               "lng": "99.597"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "921003": {
             "name": {
@@ -85195,7 +85195,7 @@ data = {
               "lat": "7.183",
               "lng": "99.599"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -85510,7 +85510,7 @@ data = {
               "lat": "7.338",
               "lng": "100.097"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930402": {
             "name": {
@@ -85521,7 +85521,7 @@ data = {
               "lat": "7.278",
               "lng": "100.007"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930403": {
             "name": {
@@ -85532,7 +85532,7 @@ data = {
               "lat": "7.260",
               "lng": "100.074"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85551,7 +85551,7 @@ data = {
               "lat": "7.756",
               "lng": "100.003"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930502": {
             "name": {
@@ -85757,7 +85757,7 @@ data = {
               "lat": "7.244",
               "lng": "100.321"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85817,7 +85817,7 @@ data = {
               "lat": "7.337",
               "lng": "100.171"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930802": {
             "name": {
@@ -85828,7 +85828,7 @@ data = {
               "lat": "7.229",
               "lng": "100.229"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930803": {
             "name": {
@@ -85880,7 +85880,7 @@ data = {
               "lat": "7.451",
               "lng": "100.157"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930902": {
             "name": {
@@ -85891,7 +85891,7 @@ data = {
               "lat": "7.435",
               "lng": "100.197"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "930903": {
             "name": {
@@ -85902,7 +85902,7 @@ data = {
               "lat": "7.390",
               "lng": "100.145"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85915,24 +85915,24 @@ data = {
           "931001": {
             "name": {
               "th": "ป่าพะยอม",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.860",
               "lng": "99.947"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931002": {
             "name": {
               "th": "ลานข่อย",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.831",
               "lng": "99.780"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931003": {
             "name": {
@@ -85943,18 +85943,18 @@ data = {
               "lat": "7.783",
               "lng": "99.799"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931004": {
             "name": {
               "th": "บ้านพร้าว",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "7.818",
               "lng": "99.948"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -85973,7 +85973,7 @@ data = {
               "lat": "7.608",
               "lng": "99.948"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931102": {
             "name": {
@@ -85984,7 +85984,7 @@ data = {
               "lat": "7.559",
               "lng": "99.868"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931103": {
             "name": {
@@ -85995,7 +85995,7 @@ data = {
               "lat": "7.554",
               "lng": "99.971"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "931104": {
             "name": {
@@ -86006,7 +86006,7 @@ data = {
               "lat": "7.495",
               "lng": "99.875"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -87353,7 +87353,7 @@ data = {
               "lat": "6.647",
               "lng": "101.231"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "941202": {
             "name": {
@@ -87364,7 +87364,7 @@ data = {
               "lat": "6.677",
               "lng": "101.266"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "941203": {
             "name": {
@@ -87375,7 +87375,7 @@ data = {
               "lat": "6.685",
               "lng": "101.214"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -87418,7 +87418,7 @@ data = {
           "950103": {
             "name": {
               "th": "ยุโป",
-              "en": null
+              "en": None
             },
             "coordinates": {
               "lat": "6.597",
@@ -87701,7 +87701,7 @@ data = {
               "lat": "6.167",
               "lng": "101.187"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950402": {
             "name": {
@@ -87712,7 +87712,7 @@ data = {
               "lat": "6.105",
               "lng": "101.204"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950403": {
             "name": {
@@ -87723,7 +87723,7 @@ data = {
               "lat": "6.102",
               "lng": "101.384"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950404": {
             "name": {
@@ -88022,7 +88022,7 @@ data = {
               "lat": "6.449",
               "lng": "101.000"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950702": {
             "name": {
@@ -88033,7 +88033,7 @@ data = {
               "lat": "6.330",
               "lng": "101.023"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       },
@@ -88052,7 +88052,7 @@ data = {
               "lat": "6.423",
               "lng": "101.285"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950802": {
             "name": {
@@ -88063,7 +88063,7 @@ data = {
               "lat": "6.398",
               "lng": "101.202"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950803": {
             "name": {
@@ -88074,7 +88074,7 @@ data = {
               "lat": "6.344",
               "lng": "101.250"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "950804": {
             "name": {
@@ -88085,7 +88085,7 @@ data = {
               "lat": "6.456",
               "lng": "101.230"
             },
-            "zipcode": null
+            "zipcode": None
           }
         }
       }
@@ -88644,7 +88644,7 @@ data = {
               "lat": "6.282",
               "lng": "101.515"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "960703": {
             "name": {
@@ -88970,7 +88970,7 @@ data = {
               "lat": "6.077",
               "lng": "101.693"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "961202": {
             "name": {
@@ -88981,7 +88981,7 @@ data = {
               "lat": "6.123",
               "lng": "101.643"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "961203": {
             "name": {
@@ -89022,7 +89022,7 @@ data = {
               "lat": "6.256",
               "lng": "101.817"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "961302": {
             "name": {
@@ -89033,7 +89033,7 @@ data = {
               "lat": "6.182",
               "lng": "101.828"
             },
-            "zipcode": null
+            "zipcode": None
           },
           "961303": {
             "name": {
