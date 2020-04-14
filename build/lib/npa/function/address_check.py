@@ -11,9 +11,9 @@ data = {}
 
 
 def address_check(address):
-    # p_value = ""
-    # d_value = ""
-    # sub_d_value = ""
+    p_value = ""
+    d_value = ""
+    sub_d_value = ""
 
     # #find province from address string
     # for province in data: 
