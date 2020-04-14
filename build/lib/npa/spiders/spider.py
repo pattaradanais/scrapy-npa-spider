@@ -62,6 +62,8 @@ class SpiderSpider(scrapy.Spider):
 
 
     def start_requests(self):
+        for item in self.forRemove.find({}):
+            self.forRemove.update({'_id':item['_id']},{'$set':{'status':1}})
         for source in self.taget_source:
             print(source['source']+'----------------------------------------------------------------------------------------------')
             source_url = source['url']   
