@@ -32,8 +32,8 @@ class SpiderSpider(scrapy.Spider):
     taget_source = collection.find()
     #remove all oud data
     forRemove = db['properties']
-    for item in forRemove.find({}):
-        forRemove.update({'_id':item['_id']},{'$set':{'status':1}})
+    # for item in forRemove.find({}):
+    #     forRemove.update({'_id':item['_id']},{'$set':{'status':1}})
     # try:
     #     forRemove.remove({})
     # except:
