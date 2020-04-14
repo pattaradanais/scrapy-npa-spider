@@ -100,7 +100,7 @@ class SpiderSpider(scrapy.Spider):
                 except:
                     break
             #after all spider of this source
-            self.collection.update({'_id':source['_id']},{'$set':{'scrape':0}})
+            self.collection.update({'source':source['source']},{'$set':{'scrape':0}})
        
        
 
