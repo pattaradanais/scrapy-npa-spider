@@ -73,10 +73,13 @@ class SpiderSpider(scrapy.Spider):
             source_url = source['url']   
 
             self.driver.get(source_url)
+            self.driver.set_window_size(1600,900)
             source_dict = source
 
             while(1):
                 #get detail page url
+                # WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, source_dict['next_page'])))
+                WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, source_dict['next_page'])))
                 source = self.driver.page_source
                 sel = scrapy.Selector(text=source)
                 urls =  sel.xpath(source_dict['item_page']).extract()
@@ -93,22 +96,23 @@ class SpiderSpider(scrapy.Spider):
                     else:
                         url = f"{source_dict['base_url']}/{url}"
 
-                    _id = source_dict['source'] + url.split('/')[-1]
-                    if self.forRemove.find_one({'_id':_id}):
+                  
+                    if self.forRemove.find_one({'asset_url':url}):
                         print("Property already scrape!!!!")
-                        self.forRemove.update({'_id':_id},{'$set':{'status':1}})
+                        self.forRemove.update({'asset_url':url},{'$set':{'status':1}})
                     else:
                         yield scrapy.Request(url=url, callback=self.parse_details,meta={'source_url': source_url})
 
                 # follow pagination link
+                print(source_dict['next_page'])
                 try:
                     next_page = self.driver.find_element_by_xpath(source_dict['next_page'])
                     next_page.click()
-                    WebDriverWait(self.driver, 10).until(EC.presence_of_element_located((By.XPATH, source_dict['next_page'])))
+                
                 except:
+                    print("Next page not found!!!")
                     break
             #after all spider of this source
-            # print(source_dict['source'])
             self.collection.update({'source':source_dict['source']},{'$set':{'scrape':0}})
            
        
